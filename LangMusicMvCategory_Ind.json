@@ -1,0 +1,37 @@
+[
+    {
+        "id": "la-music_mv_category-filter-live",
+        "data": {
+            "id": "la-music_mv_category-filter-live",
+            "text": "Dengan video Live"
+        }
+    },
+    {
+        "id": "la-music_mv_category-filter-mv",
+        "data": {
+            "id": "la-music_mv_category-filter-mv",
+            "text": "Ada MV"
+        }
+    },
+    {
+        "id": "la-music_mv_category-live",
+        "data": {
+            "id": "la-music_mv_category-live",
+            "text": "Video Live"
+        }
+    },
+    {
+        "id": "la-music_mv_category-mv",
+        "data": {
+            "id": "la-music_mv_category-mv",
+            "text": "MV"
+        }
+    },
+    {
+        "id": "la-music_mv_category-mv_light",
+        "data": {
+            "id": "la-music_mv_category-mv_light",
+            "text": "Putar Galeri"
+        }
+    }
+]
