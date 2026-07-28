@@ -868,6 +868,20 @@
         }
     },
     {
+        "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-description",
+            "text": "Lencana untuk penukaran item di tempat Penukaran Event.\nAkan dikonversi menjadi hologold setelah periode selesai."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-name",
+            "text": "Lencana Event"
+        }
+    },
+    {
         "id": "la-item-exchange-holomedal-description",
         "data": {
             "id": "la-item-exchange-holomedal-description",

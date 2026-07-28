@@ -1,5 +1,40 @@
 [
     {
+        "id": "la-generated-live_leader_skill-card-00012-5-uniq-0062-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00012-5-uniq-0062-00-description",
+            "text": "Efek Score Support meningkat 60% untuk Setiap Member. "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00021-5-uniq-0064-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00021-5-uniq-0064-00-description",
+            "text": "Saat Minimal 2 member [attribute=happy]Happy Type[/attribute], Teknik Naik 80% untuk Setiap Member. Saat Minimal 2 member [attribute=happy]Happy Type[/attribute], Efek Score Support meningkat 25% untuk Setiap Member."
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00022-5-uniq-0063-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00022-5-uniq-0063-00-description",
+            "text": "Saat Lebih dari 2 member Gen 3, Performa Naik 135% untuk Setiap Member. "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00026-5-uniq-0065-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00026-5-uniq-0065-00-description",
+            "text": "Saat Minimal 2 member [attribute=happy]Happy Type[/attribute], Sense Naik 80% untuk Setiap Member. Saat Minimal 2 member [attribute=happy]Happy Type[/attribute], Efek Score Support meningkat 25% untuk Setiap Member."
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-06002-5-uniq-0066-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-06002-5-uniq-0066-00-description",
+            "text": "Saat Minimal 2 member [attribute=happy]Happy Type[/attribute], Performa Naik 130% untuk Setiap Member. "
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
         "data": {
             "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",

@@ -10682,6 +10682,34 @@
         }
     },
     {
+        "id": "la-mission-marathon_event-live_clear_count",
+        "data": {
+            "id": "la-mission-marathon_event-live_clear_count",
+            "text": "Selesaikan lagu event {0} kali"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-live_play_count",
+        "data": {
+            "id": "la-mission-marathon_event-live_play_count",
+            "text": "Mainkan Live {0} kali"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-live_stamina_consumption",
+        "data": {
+            "id": "la-mission-marathon_event-live_stamina_consumption",
+            "text": "Gunakan {0} Live Boost"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-marathon_score_quantity",
+        "data": {
+            "id": "la-mission-marathon_event-marathon_score_quantity",
+            "text": "Dapatkan {0} Pt Event"
+        }
+    },
+    {
         "id": "la-mission-mission_pass-0001-daily-increment_card_level_up_count-name",
         "data": {
             "id": "la-mission-mission_pass-0001-daily-increment_card_level_up_count-name",

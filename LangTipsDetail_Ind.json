@@ -1288,6 +1288,48 @@
         }
     },
     {
+        "id": "la-tips-hint-marathon_nomal-description-1",
+        "data": {
+            "id": "la-tips-hint-marathon_nomal-description-1",
+            "text": "Selama <color=#ff3bc8>Event Point Rally</color>, mainkan Live atau Mini-game untuk mendapatkan Event Pt dan Lencana Event!\n\nKumpulkan Event Pt untuk membuka Cerita Event!\n\nSelain itu, Lencana Event yang dikumpulkan bisa ditukar dengan Event Memory dan item lainnya."
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_nomal-description-2",
+        "data": {
+            "id": "la-tips-hint-marathon_nomal-description-2",
+            "text": "<color=#ff3bc8>Peringkat Event Pt</color> berdasarkan total akumulasi Event Pt yang sudah dikumpulkan.\n\nRaihlah peringkat untuk mendapatkan hadiah seperti Gelar Khusus Event!\n\n*Untuk detailnya silakan cek [Event]→[Peringkat]→[Peringkat Event Pt]."
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_nomal-description-3",
+        "data": {
+            "id": "la-tips-hint-marathon_nomal-description-3",
+            "text": "Jumlah perolehan Event Pt dan Lencana Event <color=#ff3bc8>akan bertambah seiring tingginya skor</color>.\n\n▼Tentang Perolehan Event Pt dan Lencana Event\n・Bisa juga diperoleh dengan Auto Live.\n・Jumlah hadiah meningkat seiring banyaknya Live Boost yang dikonsumsi.\n・Jumlah hadiah meningkat sesuai durasi lagu!"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_nomal-description-4",
+        "data": {
+            "id": "la-tips-hint-marathon_nomal-description-4",
+            "text": "\"Manfaatkan <color=#ff3bc8>Bonus Event</color> untuk meraih Event Pt dan Lencana Event sebanyak-banyaknya!\n\nBonus Event adalah penambahan <color=#ff3bc8>jumlah Event Pt dan Lencana Event dari Live</color> yang dimainkan.\n\nAda 3 jenis Bonus Perolehan!\n\n▼Member Bonus\n・Mainkan Live dengan member target dalam tim.\n\n▼Bonus holomem\n・Mainkan Live dengan holomem target dalam tim.\n\n▼Bonus Mekar\n・Makin tinggi tingkat Mekar member dalam tim, makin bertambah hadiah saat Live.\n\nSelain itu, ada juga Bonus Event untuk meningkatkan jumlah perolehan Event Pt dan Lencana Event dari Mini-game!\n\n▼Bonus Mini-game\n・Mainkan Mini-game yang ditentukan untuk meningkatkan jumlah bonus.\n\n▼Member Bonus\n・Memiliki member yang diminta, akan meningkatkan jumlah bonus.\n\n*Untuk detailnya silakan periksa [Event]→[Bonus Event].\""
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_nomal-description-5",
+        "data": {
+            "id": "la-tips-hint-marathon_nomal-description-5",
+            "text": "Manfaatkan Bonus Event untuk meningkatkan skor!\n\nBonus Event juga menyediakan <color=#ff3bc8>Bonus Skor</color> untuk meningkatkan skor saat event saat main Lagu Tantangan Event dengan member target bonus!\n\nMember target dari Bonus Skor berubah di setiap Lagu Tantangan Event.\nDi setiap Event ada beberapa Lagu Tantangan Event.\n\n*Untuk detailnya silakan periksa [Event]→[Bonus Event]."
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_nomal-description-6",
+        "data": {
+            "id": "la-tips-hint-marathon_nomal-description-6",
+            "text": "Tersedia <color=#ff3bc8>Peringkat Skor Tertinggi untuk kompetisi skor saat event</color> di setiap Lagu Tantangan Event!\n\nRaihlah peringkat untuk mendapatkan Gelar Khusus Event!\n\n*Untuk Lagu Tantangan Event, skor event dan skor biasa keduanya akan tersimpan.\n\n*Untuk detailnya silakan periksa [Event]→[Peringkat]→[Peringkat Skor Tertinggi]."
+        }
+    },
+    {
         "id": "la-tips-hint-mini_game_reward_up_stamina-description-1",
         "data": {
             "id": "la-tips-hint-mini_game_reward_up_stamina-description-1",

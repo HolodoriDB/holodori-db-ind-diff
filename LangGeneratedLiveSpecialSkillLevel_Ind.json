@@ -1,5 +1,75 @@
 [
     {
+        "id": "la-generated-live_special_skill-card-00012-5-uniq-0062-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00012-5-uniq-0062-00.1-description",
+            "text": "Selama 10 dtk, Efek Score Support meningkat 135% "
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00012-5-uniq-0062-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00012-5-uniq-0062-00.2-description",
+            "text": "Selama 10 dtk, Efek Score Support meningkat [highlight]160[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00021-5-uniq-0064-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00021-5-uniq-0064-00.1-description",
+            "text": "Selama 12 dtk, Efek Score Support meningkat 100% Peluang Aktivasi Skill Naik 35%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00021-5-uniq-0064-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00021-5-uniq-0064-00.2-description",
+            "text": "Selama 12 dtk, Efek Score Support meningkat [highlight]120[/highlight]% Peluang Aktivasi Skill Naik [highlight]40[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00022-5-uniq-0063-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00022-5-uniq-0063-00.1-description",
+            "text": "Selama 12 dtk, Efek Score Support meningkat 100% saat Lebih dari 2 member Gen 3 Peluang Aktivasi Skill Naik 40%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00022-5-uniq-0063-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00022-5-uniq-0063-00.2-description",
+            "text": "Selama 12 dtk, Efek Score Support meningkat [highlight]120[/highlight]% saat Lebih dari 2 member Gen 3 Peluang Aktivasi Skill Naik [highlight]45[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00026-5-uniq-0065-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00026-5-uniq-0065-00.1-description",
+            "text": "Selama 11 dtk, Efek Score Support meningkat 110% Peluang Aktivasi Skill Naik 35%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00026-5-uniq-0065-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00026-5-uniq-0065-00.2-description",
+            "text": "Selama 11 dtk, Efek Score Support meningkat [highlight]130[/highlight]% Peluang Aktivasi Skill Naik [highlight]45[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-06002-5-uniq-0066-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-06002-5-uniq-0066-00.1-description",
+            "text": "Selama 14 dtk, Efek Score Support meningkat 95% "
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-06002-5-uniq-0066-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-06002-5-uniq-0066-00.2-description",
+            "text": "Selama 14 dtk, Efek Score Support meningkat [highlight]115[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
         "data": {
             "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",

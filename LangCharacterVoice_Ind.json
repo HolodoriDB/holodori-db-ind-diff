@@ -439,6 +439,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-detail",
+            "text": "【Percikan Sinar Mentari Subaru】Obrolan"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-01",
+            "text": "【Percikan Sinar Mentari Subaru】Mekar 1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-02",
+            "text": "【Percikan Sinar Mentari Subaru】Mekar 2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-03",
+            "text": "【Percikan Sinar Mentari Subaru】Mekar 3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-04",
+            "text": "【Percikan Sinar Mentari Subaru】Mekar 4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-05",
+            "text": "【Percikan Sinar Mentari Subaru】Mekar 5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-00013_00013-5-uniq-0002-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-00013_00013-5-uniq-0002-00_card-detail",
@@ -823,6 +871,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-detail",
+            "text": "【Kerlipan Api Senja Flare】Obrolan"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-01",
+            "text": "【Kerlipan Api Senja Flare】Mekar 1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-02",
+            "text": "【Kerlipan Api Senja Flare】Mekar 2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-03",
+            "text": "【Kerlipan Api Senja Flare】Mekar 3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-04",
+            "text": "【Kerlipan Api Senja Flare】Mekar 4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-05",
+            "text": "【Kerlipan Api Senja Flare】Mekar 5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0018-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0018-00_card-detail",
@@ -868,6 +964,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0018-00_card-potential-05",
             "text": "【Ksatria Semilir Angin Noel】 Mekar 5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-detail",
+            "text": "【Ksatria Mega Ombak Noel】Obrolan"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-01",
+            "text": "【Ksatria Mega Ombak Noel】Mekar 1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-02",
+            "text": "【Ksatria Mega Ombak Noel】Mekar 2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-03",
+            "text": "【Ksatria Mega Ombak Noel】Mekar 3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-04",
+            "text": "【Ksatria Mega Ombak Noel】Mekar 4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-05",
+            "text": "【Ksatria Mega Ombak Noel】Mekar 5"
         }
     },
     {
@@ -964,6 +1108,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0021-00_card-potential-05",
             "text": "【Woolly Smile Festival Watame】 Mekar 5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-detail",
+            "text": "【Bersantai di Pelampung Watame】Obrolan"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-01",
+            "text": "【Bersantai di Pelampung Watame】Mekar 1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-02",
+            "text": "【Bersantai di Pelampung Watame】Mekar 2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-03",
+            "text": "【Bersantai di Pelampung Watame】Mekar 3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-04",
+            "text": "【Bersantai di Pelampung Watame】Mekar 4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-05",
+            "text": "【Bersantai di Pelampung Watame】Mekar 5"
         }
     },
     {
@@ -2455,6 +2647,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-detail",
+            "text": "【Simfoni Angin Laut Kanade】Obrolan"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-01",
+            "text": "【Simfoni Angin Laut Kanade】Mekar 1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-02",
+            "text": "【Simfoni Angin Laut Kanade】Mekar 2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-03",
+            "text": "【Simfoni Angin Laut Kanade】Mekar 3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-04",
+            "text": "【Simfoni Angin Laut Kanade】Mekar 4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-05",
+            "text": "【Simfoni Angin Laut Kanade】Mekar 5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0059-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0059-00_card-detail",
@@ -2837,6 +3077,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-00012_00012-5-uniq-0062-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00012_00012-5-uniq-0062-00_skill-card",
+            "text": "【Percikan Sinar Mentari Subaru】Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00012_00012-5-uniq-0062-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00012_00012-5-uniq-0062-00_start-card",
+            "text": "【Percikan Sinar Mentari Subaru】Live Dimulai "
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-00012_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-00012_myself-001",
@@ -3061,6 +3315,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-00021_00021-5-uniq-0064-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00021_00021-5-uniq-0064-00_skill-card",
+            "text": "【Kerlipan Api Senja Flare】Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00021_00021-5-uniq-0064-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00021_00021-5-uniq-0064-00_start-card",
+            "text": "【Kerlipan Api Senja Flare】Live Dimulai "
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-00021_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-00021_myself-001",
@@ -3086,6 +3354,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-00022_00022-5-uniq-0018-00_start-card",
             "text": "【Ksatria Semilir Angin Noel】 Live Dimulai "
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00022_00022-5-uniq-0063-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00022_00022-5-uniq-0063-00_skill-card",
+            "text": "【Ksatria Mega Ombak Noel】Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00022_00022-5-uniq-0063-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00022_00022-5-uniq-0063-00_start-card",
+            "text": "【Ksatria Mega Ombak Noel】Live Dimulai "
         }
     },
     {
@@ -3142,6 +3424,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-00026_00026-5-uniq-0021-00_start-card",
             "text": "【Woolly Smile Festival Watame】 Live Dimulai "
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00026_00026-5-uniq-0065-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00026_00026-5-uniq-0065-00_skill-card",
+            "text": "【Bersantai di Pelampung Watame】Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00026_00026-5-uniq-0065-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00026_00026-5-uniq-0065-00_start-card",
+            "text": "【Bersantai di Pelampung Watame】Live Dimulai "
         }
     },
     {
@@ -4010,6 +4306,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-06002_06002-5-uniq-0058-00_start-card",
             "text": "【Pawai Ceria Kanade】 Live Dimulai "
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-06002_06002-5-uniq-0066-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-06002_06002-5-uniq-0066-00_skill-card",
+            "text": "【Simfoni Angin Laut Kanade】Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-06002_06002-5-uniq-0066-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-06002_06002-5-uniq-0066-00_start-card",
+            "text": "【Simfoni Angin Laut Kanade】Live Dimulai "
         }
     },
     {
@@ -10572,6 +10882,69 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-00021",
+            "text": "【Percikan Sinar Mentari Subaru】Subaru&Flare"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-00022",
+            "text": "【Percikan Sinar Mentari Subaru】Subaru&Noel"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-00026",
+            "text": "【Percikan Sinar Mentari Subaru】Subaru&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-06002",
+            "text": "【Percikan Sinar Mentari Subaru】Subaru&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00021-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00021-to-00012",
+            "text": "【Percikan Sinar Mentari Subaru】Flare&Subaru"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00022-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00022-to-00012",
+            "text": "【Percikan Sinar Mentari Subaru】Noel&Subaru"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00026-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00026-to-00012",
+            "text": "【Percikan Sinar Mentari Subaru】Watame&Subaru"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_06002-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_06002-to-00012",
+            "text": "【Percikan Sinar Mentari Subaru】Kanade&Subaru"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_myself",
+            "text": "【Percikan Sinar Mentari Subaru】Skill SP"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00012_00012-to-00001",
         "data": {
             "id": "la-name_cv-live_dial_chr-00012_00012-to-00001",
@@ -10992,10 +11365,38 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00012_00021-5-uniq-0064-00_00012-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00021-5-uniq-0064-00_00012-to-00021",
+            "text": "【Kerlipan Api Senja Flare】Subaru&Flare"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00021-5-uniq-0064-00_00021-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00021-5-uniq-0064-00_00021-to-00012",
+            "text": "【Kerlipan Api Senja Flare】Flare&Subaru"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00012_00021-to-00012",
         "data": {
             "id": "la-name_cv-live_dial_chr-00012_00021-to-00012",
             "text": "Flare&Subaru"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00022-5-uniq-0063-00_00012-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00022-5-uniq-0063-00_00012-to-00022",
+            "text": "【Ksatria Mega Ombak Noel】Subaru&Noel"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00022-5-uniq-0063-00_00022-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00022-5-uniq-0063-00_00022-to-00012",
+            "text": "【Ksatria Mega Ombak Noel】Noel&Subaru"
         }
     },
     {
@@ -11010,6 +11411,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00012_00023-to-00012",
             "text": "Marine&Subaru"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00026-5-uniq-0065-00_00012-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00026-5-uniq-0065-00_00012-to-00026",
+            "text": "【Bersantai di Pelampung Watame】Subaru&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00026-5-uniq-0065-00_00026-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00026-5-uniq-0065-00_00026-to-00012",
+            "text": "【Bersantai di Pelampung Watame】Watame&Subaru"
         }
     },
     {
@@ -11227,6 +11642,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00012_04017-to-00012",
             "text": "Mococo&Subaru"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_06002-5-uniq-0066-00_00012-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_06002-5-uniq-0066-00_00012-to-06002",
+            "text": "【Simfoni Angin Laut Kanade】Subaru&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_06002-5-uniq-0066-00_06002-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_06002-5-uniq-0066-00_06002-to-00012",
+            "text": "【Simfoni Angin Laut Kanade】Kanade&Subaru"
         }
     },
     {
@@ -16893,6 +17322,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00021_00012-5-uniq-0062-00_00012-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00012-5-uniq-0062-00_00012-to-00021",
+            "text": "【Percikan Sinar Mentari Subaru】Subaru&Flare"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_00012-5-uniq-0062-00_00021-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00012-5-uniq-0062-00_00021-to-00012",
+            "text": "【Percikan Sinar Mentari Subaru】Flare&Subaru"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00021_00012-to-00021",
         "data": {
             "id": "la-name_cv-live_dial_chr-00021_00012-to-00021",
@@ -16981,6 +17424,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0017-00_myself",
             "text": "【Gondola Angin Elf Flare】 Skill SP"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00012-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00012-to-00021",
+            "text": "【Kerlipan Api Senja Flare】Subaru&Flare"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-00012",
+            "text": "【Kerlipan Api Senja Flare】Flare&Subaru"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-00022",
+            "text": "【Kerlipan Api Senja Flare】Flare&Noel"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-00026",
+            "text": "【Kerlipan Api Senja Flare】Flare&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-06002",
+            "text": "【Kerlipan Api Senja Flare】Flare&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00022-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00022-to-00021",
+            "text": "【Kerlipan Api Senja Flare】Noel&Flare"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00026-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00026-to-00021",
+            "text": "【Kerlipan Api Senja Flare】Watame&Flare"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_06002-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_06002-to-00021",
+            "text": "【Kerlipan Api Senja Flare】Kanade&Flare"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_myself",
+            "text": "【Kerlipan Api Senja Flare】Skill SP"
         }
     },
     {
@@ -17362,6 +17868,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00021_00022-5-uniq-0063-00_00021-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00022-5-uniq-0063-00_00021-to-00022",
+            "text": "【Ksatria Mega Ombak Noel】Flare&Noel"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_00022-5-uniq-0063-00_00022-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00022-5-uniq-0063-00_00022-to-00021",
+            "text": "【Ksatria Mega Ombak Noel】Noel&Flare"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00021_00022-to-00021",
         "data": {
             "id": "la-name_cv-live_dial_chr-00021_00022-to-00021",
@@ -17380,6 +17900,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00021_00023-to-00021",
             "text": "Marine&Flare"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_00026-5-uniq-0065-00_00021-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00026-5-uniq-0065-00_00021-to-00026",
+            "text": "【Bersantai di Pelampung Watame】Flare&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_00026-5-uniq-0065-00_00026-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00026-5-uniq-0065-00_00026-to-00021",
+            "text": "【Bersantai di Pelampung Watame】Watame&Flare"
         }
     },
     {
@@ -17600,6 +18134,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00021_06002-5-uniq-0066-00_00021-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_06002-5-uniq-0066-00_00021-to-06002",
+            "text": "【Simfoni Angin Laut Kanade】Flare&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_06002-5-uniq-0066-00_06002-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_06002-5-uniq-0066-00_06002-to-00021",
+            "text": "【Simfoni Angin Laut Kanade】Kanade&Flare"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00021_06002-to-00021",
         "data": {
             "id": "la-name_cv-live_dial_chr-00021_06002-to-00021",
@@ -17684,6 +18232,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00022_00012-5-uniq-0062-00_00012-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00012-5-uniq-0062-00_00012-to-00022",
+            "text": "【Percikan Sinar Mentari Subaru】Subaru&Noel"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00012-5-uniq-0062-00_00022-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00012-5-uniq-0062-00_00022-to-00012",
+            "text": "【Percikan Sinar Mentari Subaru】Noel&Subaru"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00022_00012-to-00022",
         "data": {
             "id": "la-name_cv-live_dial_chr-00022_00012-to-00022",
@@ -17754,6 +18316,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00022_00021-5-uniq-0064-00_00021-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00021-5-uniq-0064-00_00021-to-00022",
+            "text": "【Kerlipan Api Senja Flare】Flare&Noel"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00021-5-uniq-0064-00_00022-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00021-5-uniq-0064-00_00022-to-00021",
+            "text": "【Kerlipan Api Senja Flare】Noel&Flare"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00022_00021-to-00022",
         "data": {
             "id": "la-name_cv-live_dial_chr-00022_00021-to-00022",
@@ -17786,6 +18362,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0018-00_myself",
             "text": "【Ksatria Semilir Angin Noel】 Skill SP"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00012-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00012-to-00022",
+            "text": "【Ksatria Mega Ombak Noel】Subaru&Noel"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00021-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00021-to-00022",
+            "text": "【Ksatria Mega Ombak Noel】Flare&Noel"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-00012",
+            "text": "【Ksatria Mega Ombak Noel】Noel&Subaru"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-00021",
+            "text": "【Ksatria Mega Ombak Noel】Noel&Flare"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-00026",
+            "text": "【Ksatria Mega Ombak Noel】Noel&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-06002",
+            "text": "【Ksatria Mega Ombak Noel】Noel&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00026-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00026-to-00022",
+            "text": "【Ksatria Mega Ombak Noel】Watame&Noel"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_06002-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_06002-to-00022",
+            "text": "【Ksatria Mega Ombak Noel】Kanade&Noel"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_myself",
+            "text": "【Ksatria Mega Ombak Noel】Skill SP"
         }
     },
     {
@@ -18174,6 +18813,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00022_00026-5-uniq-0065-00_00022-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00026-5-uniq-0065-00_00022-to-00026",
+            "text": "【Bersantai di Pelampung Watame】Noel&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00026-5-uniq-0065-00_00026-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00026-5-uniq-0065-00_00026-to-00022",
+            "text": "【Bersantai di Pelampung Watame】Watame&Noel"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00022_00026-to-00022",
         "data": {
             "id": "la-name_cv-live_dial_chr-00022_00026-to-00022",
@@ -18388,6 +19041,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00022_04017-to-00022",
             "text": "Mococo&Noel"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_06002-5-uniq-0066-00_00022-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_06002-5-uniq-0066-00_00022-to-06002",
+            "text": "【Simfoni Angin Laut Kanade】Noel&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_06002-5-uniq-0066-00_06002-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_06002-5-uniq-0066-00_06002-to-00022",
+            "text": "【Simfoni Angin Laut Kanade】Kanade&Noel"
         }
     },
     {
@@ -19266,6 +19933,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00026_00012-5-uniq-0062-00_00012-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00012-5-uniq-0062-00_00012-to-00026",
+            "text": "【Percikan Sinar Mentari Subaru】Subaru&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00012-5-uniq-0062-00_00026-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00012-5-uniq-0062-00_00026-to-00012",
+            "text": "【Percikan Sinar Mentari Subaru】Watame&Subaru"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00026_00012-to-00026",
         "data": {
             "id": "la-name_cv-live_dial_chr-00026_00012-to-00026",
@@ -19322,10 +20003,38 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00026_00021-5-uniq-0064-00_00021-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00021-5-uniq-0064-00_00021-to-00026",
+            "text": "【Kerlipan Api Senja Flare】Flare&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00021-5-uniq-0064-00_00026-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00021-5-uniq-0064-00_00026-to-00021",
+            "text": "【Kerlipan Api Senja Flare】Watame&Flare"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00026_00021-to-00026",
         "data": {
             "id": "la-name_cv-live_dial_chr-00026_00021-to-00026",
             "text": "Flare&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00022-5-uniq-0063-00_00022-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00022-5-uniq-0063-00_00022-to-00026",
+            "text": "【Ksatria Mega Ombak Noel】Noel&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00022-5-uniq-0063-00_00026-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00022-5-uniq-0063-00_00026-to-00022",
+            "text": "【Ksatria Mega Ombak Noel】Watame&Noel"
         }
     },
     {
@@ -19361,6 +20070,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0021-00_myself",
             "text": "【Woolly Smile Festival Watame】 Skill SP"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00012-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00012-to-00026",
+            "text": "【Bersantai di Pelampung Watame】Subaru&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00021-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00021-to-00026",
+            "text": "【Bersantai di Pelampung Watame】Flare&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00022-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00022-to-00026",
+            "text": "【Bersantai di Pelampung Watame】Noel&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-00012",
+            "text": "【Bersantai di Pelampung Watame】Watame&Subaru"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-00021",
+            "text": "【Bersantai di Pelampung Watame】Watame&Flare"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-00022",
+            "text": "【Bersantai di Pelampung Watame】Watame&Noel"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-06002",
+            "text": "【Bersantai di Pelampung Watame】Watame&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_06002-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_06002-to-00026",
+            "text": "【Bersantai di Pelampung Watame】Kanade&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_myself",
+            "text": "【Bersantai di Pelampung Watame】Skill SP"
         }
     },
     {
@@ -19956,6 +20728,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00026_04017-to-00026",
             "text": "Mococo&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_06002-5-uniq-0066-00_00026-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_06002-5-uniq-0066-00_00026-to-06002",
+            "text": "【Simfoni Angin Laut Kanade】Watame&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_06002-5-uniq-0066-00_06002-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_06002-5-uniq-0066-00_06002-to-00026",
+            "text": "【Simfoni Angin Laut Kanade】Kanade&Watame"
         }
     },
     {
@@ -43605,6 +44391,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-06002_00012-5-uniq-0062-00_00012-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_00012-5-uniq-0062-00_00012-to-06002",
+            "text": "【Percikan Sinar Mentari Subaru】Subaru&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_00012-5-uniq-0062-00_06002-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_00012-5-uniq-0062-00_06002-to-00012",
+            "text": "【Percikan Sinar Mentari Subaru】Kanade&Subaru"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-06002_00012-to-06002",
         "data": {
             "id": "la-name_cv-live_dial_chr-06002_00012-to-06002",
@@ -43661,10 +44461,38 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-06002_00021-5-uniq-0064-00_00021-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_00021-5-uniq-0064-00_00021-to-06002",
+            "text": "【Kerlipan Api Senja Flare】Flare&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_00021-5-uniq-0064-00_06002-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_00021-5-uniq-0064-00_06002-to-00021",
+            "text": "【Kerlipan Api Senja Flare】Kanade&Flare"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-06002_00021-to-06002",
         "data": {
             "id": "la-name_cv-live_dial_chr-06002_00021-to-06002",
             "text": "Flare&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_00022-5-uniq-0063-00_00022-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_00022-5-uniq-0063-00_00022-to-06002",
+            "text": "【Ksatria Mega Ombak Noel】Noel&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_00022-5-uniq-0063-00_06002-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_00022-5-uniq-0063-00_06002-to-00022",
+            "text": "【Ksatria Mega Ombak Noel】Kanade&Noel"
         }
     },
     {
@@ -43679,6 +44507,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-06002_00023-to-06002",
             "text": "Marine&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_00026-5-uniq-0065-00_00026-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_00026-5-uniq-0065-00_00026-to-06002",
+            "text": "【Bersantai di Pelampung Watame】Watame&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_00026-5-uniq-0065-00_06002-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_00026-5-uniq-0065-00_06002-to-00026",
+            "text": "【Bersantai di Pelampung Watame】Kanade&Watame"
         }
     },
     {
@@ -43924,6 +44766,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0058-00_myself",
             "text": "【Pawai Ceria Kanade】 Skill SP"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00012-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00012-to-06002",
+            "text": "【Simfoni Angin Laut Kanade】Subaru&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00021-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00021-to-06002",
+            "text": "【Simfoni Angin Laut Kanade】Flare&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00022-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00022-to-06002",
+            "text": "【Simfoni Angin Laut Kanade】Noel&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00026-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00026-to-06002",
+            "text": "【Simfoni Angin Laut Kanade】Watame&Kanade"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00012",
+            "text": "【Simfoni Angin Laut Kanade】Kanade&Subaru"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00021",
+            "text": "【Simfoni Angin Laut Kanade】Kanade&Flare"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00022",
+            "text": "【Simfoni Angin Laut Kanade】Kanade&Noel"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00026",
+            "text": "【Simfoni Angin Laut Kanade】Kanade&Watame"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_myself",
+            "text": "【Simfoni Angin Laut Kanade】Skill SP"
         }
     },
     {
@@ -87936,6 +88841,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-detail",
+            "text": "Haaaah, sejuknyaaaa! Laut memang yang terbaik♪\nOke, mau main apa nih?! Kemarin pas ke sini kita sempat santai-santai ngapung di air kan, mau main itu lagi?\nEh, woooiii! Kenapa sih, kok cuma kalian saja yang bawa pelampung!\nCurang banget, Subaru juga mau ambil pelampung. Tungguin ya... Aaaaaarghhh?!\nGawat, kacamataku jatuh ke laut?!\nEh, jangan malah enak-enakan ngapung di sana! Ayo bantuin cari!!!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-get",
+            "text": "Ayo kita semua seru-seruan, heboh bareng... \nNikmati musim panas sambil ketawa bareng Subaru!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-01",
+            "text": "Kalau pakai baju renang jadi gampang gerak ya, praktis banget... Hehe."
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-02",
+            "text": "Subaru nggak bakal kalah sama hambatan air! Lari sekuat tenagaaa! Waaaaaaa!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-03",
+            "text": "Istirahat dulu, istirahat♪ Hmm, handuk aku... Eh, gawat! Gimana nih kelupaan!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-04",
+            "text": "Makasih ya handuknya! Tertolong deh. Sebagai rasa terima kasih, ini Subaru kasih es serut!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00012_00012-5-uniq-0062-00_card-potential-05",
+            "text": "Anginnya sejuk banget♪ K-kenapa sih lihatin Subaru terus. Jadi malu tahu!"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-00013_00013-5-uniq-0002-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-00013_00013-5-uniq-0002-00_card-detail",
@@ -88328,6 +89282,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-detail",
+            "text": "Hari sudah mulai gelap nih, gimana kalau kita mulai lakuin 'itu'? Ta-da, set kembang api♪\nKemaren pas ke pantai nggak sempat main, padahal pengen banget loh. Oke, pilih saja yang kamu suka, ada banyak kok♪\nKalau aku, mau yang ini dan yang itu. Sip, ayo sama-sama hidupin apinya, satu dua...\nWah, lihat! Cantik banget♪\nLihat deh, jurus dua pedang kembang api! Bercanda deh♪\nAh, kembang api yang itu yang warnanya bisa berubah kan, bagus banget... Aku juga mau pegang dong."
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-get",
+            "text": "Jangan sampai kalah sama panasnya musim panas! \nAkan kubagi energiku ke kalian semuanya!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-01",
+            "text": "Mumpung lagi musim panas, aku hias semuanya pakai bunga matahari! Bagus kan♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-02",
+            "text": "Aku di sini loh, coba tangkap aku, ahaha♪ Eh, malah jatuh, kamu gapapa?"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-03",
+            "text": "Wah, ketemu kerang yang cantik banget! Karena ada dua, nih satu buat kamu!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-04",
+            "text": "Terakhir memang wajib main kembang api ya. Yang kembang apinya habis duluan, nanti harus traktir es krim!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0064-00_card-potential-05",
+            "text": "Tadi kerasa syahdu banget ya, hihihi. Makasih ya, ini bakal jadi kenangan musim panas yang indah♪"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0018-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0018-00_card-detail",
@@ -88374,6 +89377,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0018-00_card-potential-05",
             "text": "Makasih ya sudah menemaniku jalan-jalan hari ini! Kapan-kapan pergi bareng lagi ya♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-detail",
+            "text": "Woooiii, kamu ngapain? Ayo sini, berenang bareng yuk!\nAh, itu dia datang♪ Coba duduk deh? Enak kan?\nSetiap ombak datang, pinggangku serasa dikelitik♪\nWaktu terakhir kali ke pantai, Dancho gerak terus kan, tapi nyantai begini rasanya juga seru ya♪\n...Eh, kya?!\n...Uugh, kepalaku kesiram ombak... Hihihi, jadi basah kuyup deh♪\nKalau sudah begini... Gimana kalau kita main siram-siraman air saja biar makin basah kuyup?"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-get",
+            "text": "Tahun ini, tahun depan, dan tahun depannya lagi... \nAyo terus habiskan waktu musim panas bareng Dancho ya♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-01",
+            "text": "Kamu lihatin Dancho terus lho? Jangan-jangan, suka ya sama baju renang ini?"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-02",
+            "text": "Kalau pakai baju renang, kecepatan Dancho juga naik! Lihat ya, Dancho Step! Yey yey yey♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-03",
+            "text": "Makan es krim di pantai memang beda ya♪ Aduh! Lumer nih, lumer."
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-04",
+            "text": "Eh eh! Gimana kalau sekarang kita tiduran di pelampung? Ayo kita ngapung bareng♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00022_00022-5-uniq-0063-00_card-potential-05",
+            "text": "Kalau rebahan di sebelahmu begini, wajah kita jadi deket banget ya, bikin deg-degan deh... Hihihi...♪"
         }
     },
     {
@@ -88472,6 +89524,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0021-00_card-potential-05",
             "text": "Nggak ada satu pun yang bisa digantikan! Semuanya adalah keluarga Watame yang berharga!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-detail",
+            "text": "Haaaah... Emang ngapung santai di laut rasanya enak banget ya♪\nPas ke laut kemarin ini juga coba, ternyata emang enak banget, jadi pengen ngelakuin ini terus deh♪\nTapi... Ada satu lagi yang bikin ketagihan... Itu tuh, itu!\nAhaha, ada celah♪ Salah sendiri kenapa malah bengong?\nWatame nggak salah kan? Aduh, blub-blub?!\nUghh, jadi basah kuyup... Berani ya kamu! Rasain nih, rasain, rasaaain! Ahahahaha♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-get",
+            "text": "Semuanya, ayo buat hari ini jadi kenangan yang terindah! \nHave a nice day♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-01",
+            "text": "Ehehe, baju renang ini cocok nggak? Eeh, mukamu kok jadi merah ya?"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-02",
+            "text": "Perutku lapar! Siapa saja, kasih makan Watame dong... *Lirik-lirik"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-03",
+            "text": "Enak banget! Makan kari di pantai emang beda ya. Makasih udah dibelikan♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-04",
+            "text": "Abis ini ngapain? Berenang yuk! Watame bakal tunjukin cara berenang hasil latihan di kelas Medaka♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00026_00026-5-uniq-0065-00_card-potential-05",
+            "text": "Wah, sunset beach! Cantiknya... Kapan-kapan ke sini lagi buat lihat pemandangan ini ya."
         }
     },
     {
@@ -89994,6 +91095,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-detail",
+            "text": "Hihihi... Lihat nih, senjata Kanade yang paling keren... Pistol air maut!\nKemarin kan kita sudah main siram-siraman air, tapi hari ini...Pakai senjata ini, bakal Kanade bikin basah kuyup siapa pun yang berani ngalangin jalan! Gyahahahahaha!\n...A-apa?! Lebih besar dari pistol air Kanade?!\nCu-curang! Aku nggak dengar apa-apa soal itu!\nKalau begitu... Eh, Kanade pengen pakai pistol air yang itu♪ Mau tukar nggak?\nEh, nggak boleh? Apaan sih, pelit banget! Dasar pelit!\nWah, ngamuk! Kaburrrr♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-get",
+            "text": "Musim panas adalah waktunya seru-seruan! Semuanya, \nayo main sepuasnya bareng Kanade!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-01",
+            "text": "Laut loh, laut! Cihuyyy, hari ini juga ayo main sepuasnya!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-02",
+            "text": "Hahaha, gimana?! Kanade kalau pakai baju renang juga kelihatan kalem dan anggun kan, ahahaha♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-03",
+            "text": "Kamu bakal pengen beliin Kanade es serut♪ Kamu bakal pengen beliin Kanade es serut♪ Hihihi♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-04",
+            "text": "Bikin istana pasir sama-sama yuk. Ayo dong, bikin yuk."
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06002_06002-5-uniq-0066-00_card-potential-05",
+            "text": "Eh, sudah mau pulang? Ugh... Iya deh. Kapan-kapan datang sama-sama lagi ya! Janji loh."
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0059-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0059-00_card-detail",
@@ -90379,6 +91529,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-00012_00012-5-uniq-0062-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00012_00012-5-uniq-0062-00_skill-card",
+            "text": "Jangan mau kalah sama panasnya cuaca!!!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00012_00012-5-uniq-0062-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00012_00012-5-uniq-0062-00_start-card",
+            "text": "Musim panas terbaik, Ajimaru! Ajimaru! Ajimaru!"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-00012_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-00012_myself-001",
@@ -90603,6 +91767,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-00021_00021-5-uniq-0064-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00021_00021-5-uniq-0064-00_skill-card",
+            "text": "Ayo lebih semangat lagi!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00021_00021-5-uniq-0064-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00021_00021-5-uniq-0064-00_start-card",
+            "text": "Sudah siap buat keringatan, semuanya?!"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-00021_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-00021_myself-001",
@@ -90628,6 +91806,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-00022_00022-5-uniq-0018-00_start-card",
             "text": "Ukir sosok Dancho yang gagah berani dalam ingatanmu!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00022_00022-5-uniq-0063-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00022_00022-5-uniq-0063-00_skill-card",
+            "text": "Saksikanlah Tarian Musim Panas Dancho!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00022_00022-5-uniq-0063-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00022_00022-5-uniq-0063-00_start-card",
+            "text": "Saatnya menikmati musim panas bersama Dancho!"
         }
     },
     {
@@ -90684,6 +91876,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-00026_00026-5-uniq-0021-00_start-card",
             "text": "Alasan untuk menyerah sudah kubuang di masa lalu...!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00026_00026-5-uniq-0065-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00026_00026-5-uniq-0065-00_skill-card",
+            "text": "Pemandangan musim panas memang terbaik!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00026_00026-5-uniq-0065-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00026_00026-5-uniq-0065-00_start-card",
+            "text": "Sudah siap buat seru-seruan di musim panas?! Mana suaranya!!!"
         }
     },
     {
@@ -91552,6 +92758,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-06002_06002-5-uniq-0058-00_start-card",
             "text": "Jangan lepas pandanganmu dari penampilanku ya!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-06002_06002-5-uniq-0066-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-06002_06002-5-uniq-0066-00_skill-card",
+            "text": "Musim panas tiba! Kanade tiba! Yeeey!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-06002_06002-5-uniq-0066-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-06002_06002-5-uniq-0066-00_start-card",
+            "text": "Kalian semuanya! Ayo habiskan musim panas bersama Kanade!"
         }
     },
     {
@@ -98114,6 +99334,69 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-00021",
+            "text": "Aduh panas! Keringatnya nggak berhenti, pengen minum sesuatu deh!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-00022",
+            "text": "Eh eh, semuanya! Baju renang Subaru, cocok nggak?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-00026",
+            "text": "Watameeee! Kamu kan yang siram aku tadi pakai air?!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00012-to-06002",
+            "text": "Gimana? Kacamata hitam ini keren kan♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00021-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00021-to-00012",
+            "text": "Makasih! Sebagai balasannya, ini aku kasih jepitan rambut bunga matahari♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00022-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00022-to-00012",
+            "text": "No-Noel! Matamu sampai merah begitu, serem tahu!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00026-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_00026-to-00012",
+            "text": "Ahahaha! Rekam dalam ingatan apaan sih."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_06002-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_06002-to-00012",
+            "text": "Eh, eh, lagi Live begini ngomong apa sih kamu!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00012-5-uniq-0062-00_myself",
+            "text": "Ayo kita semua seru-seruan, heboh bareng... Nikmati musim panas sambil ketawa bareng Subaru!"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00012_00012-to-00001",
         "data": {
             "id": "la-text_cv-live_dial_chr-00012_00012-to-00001",
@@ -98534,10 +99817,38 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00012_00021-5-uniq-0064-00_00012-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00021-5-uniq-0064-00_00012-to-00021",
+            "text": "Kamu bisa ikuti semangatku nggak Flare?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00021-5-uniq-0064-00_00021-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00021-5-uniq-0064-00_00021-to-00012",
+            "text": "Benar banget♪ Ayo tembakin terus kembang apinya Shuba~"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00012_00021-to-00012",
         "data": {
             "id": "la-text_cv-live_dial_chr-00012_00021-to-00012",
             "text": "Flare-chan, aku yang kakak lho..."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00022-5-uniq-0063-00_00012-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00022-5-uniq-0063-00_00012-to-00022",
+            "text": "Waaah! Noe-chan, baju renangmu lucu!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00022-5-uniq-0063-00_00022-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00022-5-uniq-0063-00_00022-to-00012",
+            "text": "Oke! Ayo kita bikin heboh!"
         }
     },
     {
@@ -98552,6 +99863,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00012_00023-to-00012",
             "text": "Dasar bodoh! Malah kegatelan!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00026-5-uniq-0065-00_00012-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00026-5-uniq-0065-00_00012-to-00026",
+            "text": "WOOOOW?! Watame pakai baju renang, emang luar biasa!!!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00026-5-uniq-0065-00_00026-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00026-5-uniq-0065-00_00026-to-00012",
+            "text": "Duh, jangan ngaco deh!"
         }
     },
     {
@@ -98769,6 +100094,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00012_04017-to-00012",
             "text": "Jangan main di luar rencana, dong!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_06002-5-uniq-0066-00_00012-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_06002-5-uniq-0066-00_00012-to-06002",
+            "text": "Kana-chan! Berhenti todongin pistol air ke pengunjung!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_06002-5-uniq-0066-00_06002-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_06002-5-uniq-0066-00_06002-to-00012",
+            "text": "Ahahahaha! Kamu jadi gampang marah di musim panas tahu♪"
         }
     },
     {
@@ -104435,6 +105774,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00021_00012-5-uniq-0062-00_00012-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00012-5-uniq-0062-00_00012-to-00021",
+            "text": "Dasar bocah! Ini, ayo diminum♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_00012-5-uniq-0062-00_00021-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00012-5-uniq-0062-00_00021-to-00012",
+            "text": "Subaru-senpai seperti bunga matahari ya, bikin aku jadi semangat♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00021_00012-to-00021",
         "data": {
             "id": "la-text_cv-live_dial_chr-00021_00012-to-00021",
@@ -104523,6 +105876,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0017-00_myself",
             "text": "Terima kasih untuk dukungannya. Aku bersyukur bisa bertemu kalian. Aku sayang kalian."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00012-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00012-to-00021",
+            "text": "Memangnya ada yang sanggup mengimbangiku?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-00012",
+            "text": "Efek kembang api di Live mewah banget, keren parah!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-00022",
+            "text": "Semuanya, jangan lupa minum air ya."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-00026",
+            "text": "Eh Watame. Gimana menurutmu dengan Live pas matahari terbenam?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00021-to-06002",
+            "text": "Woi Kanade! Berani-beraninya kamu siram air ya♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00022-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00022-to-00021",
+            "text": "Ahaha, jangan asal ngomong dong! Jangan sembarangan! Tapi, memang nggak bakal kalah sih♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00026-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_00026-to-00021",
+            "text": "Ehehe, senangnya♪ Apa aku pose saja sekalian ya? Berkilau♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_06002-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_06002-to-00021",
+            "text": "Makasih! Kanade juga kelihatan cocok kok♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00021-5-uniq-0064-00_myself",
+            "text": "Jangan sampai kalah sama panasnya musim panas! Akan kubagi energiku ke kalian semuanya!"
         }
     },
     {
@@ -104904,6 +106320,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00021_00022-5-uniq-0063-00_00021-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00022-5-uniq-0063-00_00021-to-00022",
+            "text": "Nih, Noel. Minuman yang dingin banget lho?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_00022-5-uniq-0063-00_00022-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00022-5-uniq-0063-00_00022-to-00021",
+            "text": "Ahahaha! Noe-chan semangat banget ya."
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00021_00022-to-00021",
         "data": {
             "id": "la-text_cv-live_dial_chr-00021_00022-to-00021",
@@ -104922,6 +106352,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00021_00023-to-00021",
             "text": "O-oke. Hari ini pun cintamu segede gaban ya."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_00026-5-uniq-0065-00_00021-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00026-5-uniq-0065-00_00021-to-00026",
+            "text": "Semuanya, baju renang Watame cocok kan?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_00026-5-uniq-0065-00_00026-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_00026-5-uniq-0065-00_00026-to-00021",
+            "text": "Wah bagus, imut banget ya♪"
         }
     },
     {
@@ -105142,6 +106586,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00021_06002-5-uniq-0066-00_00021-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_06002-5-uniq-0066-00_00021-to-06002",
+            "text": "Kalau begitu, satu lelucon dari Kyanade, silakan!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_06002-5-uniq-0066-00_06002-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_06002-5-uniq-0066-00_06002-to-00021",
+            "text": "Ahaha! Eh, gimana ya?"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00021_06002-to-00021",
         "data": {
             "id": "la-text_cv-live_dial_chr-00021_06002-to-00021",
@@ -105226,6 +106684,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00022_00012-5-uniq-0062-00_00012-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00012-5-uniq-0062-00_00012-to-00022",
+            "text": "WOOOW! Cocok banget!!!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_00012-5-uniq-0062-00_00022-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00012-5-uniq-0062-00_00022-to-00012",
+            "text": "Hosh...hosh...hosh... Su-Suba-chan pakai baju renang..."
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00022_00012-to-00022",
         "data": {
             "id": "la-text_cv-live_dial_chr-00022_00012-to-00022",
@@ -105296,6 +106768,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00022_00021-5-uniq-0064-00_00021-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00021-5-uniq-0064-00_00021-to-00022",
+            "text": "Kalau lupa nanti lumer kayak es krim loh."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_00021-5-uniq-0064-00_00022-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00021-5-uniq-0064-00_00022-to-00021",
+            "text": "Flare nggak akan kalah sama panas!"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00022_00021-to-00022",
         "data": {
             "id": "la-text_cv-live_dial_chr-00022_00021-to-00022",
@@ -105328,6 +106814,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0018-00_myself",
             "text": "Supaya bisa bahagia bersama semuanya.. Aku akan terus berkembang!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00012-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00012-to-00022",
+            "text": "Aku dipuji Suba-chan... Tereriko Tereriko♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00021-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00021-to-00022",
+            "text": "Kya?! Duh, jangan tempelin ke punggung dong."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-00012",
+            "text": "Suba-chan, ayo buat kenangan musim panas terindah bareng Dancho ya."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-00021",
+            "text": "Musim panas! Laut! Waktunya Live! Yey yey yey!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-00026",
+            "text": "Semuanya? Gimana menurut kalian baju renang Dancho?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00022-to-06002",
+            "text": "Semuanya, biar nggak lemas karena panas, ayo makan gyudon porsi jumbo!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00026-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_00026-to-00022",
+            "text": "Ah, woi. Nggak boleh tahu, nakal!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_06002-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_06002-to-00022",
+            "text": "Hihihi, Kanade-chan memang baik ya, anak manis♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00022-5-uniq-0063-00_myself",
+            "text": "Tahun ini, tahun depan, dan tahun depannya lagi... Ayo terus habiskan waktu musim panas bareng Dancho ya♪"
         }
     },
     {
@@ -105716,6 +107265,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00022_00026-5-uniq-0065-00_00022-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00026-5-uniq-0065-00_00022-to-00026",
+            "text": "Oh, Watame! Penampilanmu kelihatan gampang dimasak ya♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_00026-5-uniq-0065-00_00026-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00026-5-uniq-0065-00_00026-to-00022",
+            "text": "Kamu nggak apa-apa? Nih, air minum super dingin buat kamu♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00022_00026-to-00022",
         "data": {
             "id": "la-text_cv-live_dial_chr-00022_00026-to-00022",
@@ -105930,6 +107493,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00022_04017-to-00022",
             "text": "Mococo-chan anak baik, ya~. Puk puk♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_06002-5-uniq-0066-00_00022-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_06002-5-uniq-0066-00_00022-to-06002",
+            "text": "Kanade-chan, topinya miring lho? Sini, aku benerin dulu ya♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_06002-5-uniq-0066-00_06002-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_06002-5-uniq-0066-00_06002-to-00022",
+            "text": "Kanade-chan imut banget! Baju renangnya juga cocok lho♪"
         }
     },
     {
@@ -106808,6 +108385,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00026_00012-5-uniq-0062-00_00012-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00012-5-uniq-0062-00_00012-to-00026",
+            "text": "Ahaha! Eeh, Watame nggak tahu loh?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_00012-5-uniq-0062-00_00026-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00012-5-uniq-0062-00_00026-to-00012",
+            "text": "Cekrek, cekrek! Akan aku rekam penampilan Subaru-chan pakai baju renang dalam ingatanku!"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00026_00012-to-00026",
         "data": {
             "id": "la-text_cv-live_dial_chr-00026_00012-to-00026",
@@ -106864,10 +108455,38 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00026_00021-5-uniq-0064-00_00021-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00021-5-uniq-0064-00_00021-to-00026",
+            "text": "Ide bagus, gimana kalau kita nyanyi lagu balada bareng-bareng?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_00021-5-uniq-0064-00_00026-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00021-5-uniq-0064-00_00026-to-00021",
+            "text": "Haori Fu-tan melambai-lambai gitu pas kena angin, bagus banget♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00026_00021-to-00026",
         "data": {
             "id": "la-text_cv-live_dial_chr-00026_00021-to-00026",
             "text": "Dengarkan lagu dari duo sahabat ini!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_00022-5-uniq-0063-00_00022-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00022-5-uniq-0063-00_00022-to-00026",
+            "text": "Kalau itu sudah jelas, imut bangetttttt!!!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_00022-5-uniq-0063-00_00026-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00022-5-uniq-0063-00_00026-to-00022",
+            "text": "Eh eh, Noe-chan. Tali itu boleh aku tarik?"
         }
     },
     {
@@ -106903,6 +108522,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0021-00_myself",
             "text": "Terima kasih! Kalian akan terus mewujudkan mimpi bersamaku, kan?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00012-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00012-to-00026",
+            "text": "Ahaha, Subaru-chan teriaknya kenceng banget."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00021-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00021-to-00026",
+            "text": "Wah, sorakannya meriah sekali?! Huaa, terima kasih~"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00022-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00022-to-00026",
+            "text": "J-jangan makan Watameeeeee?!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-00012",
+            "text": "Subaru-chan, aku pengen belah semangka! Siapin dong!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-00021",
+            "text": "Kuhadiahkan Watame yang pakai baju renang buat Fu-tan♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-00022",
+            "text": "Panasnyaaaaa! Watame meleleh nih!!!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_00026-to-06002",
+            "text": "Watame nggak salah kan kalau cipratin air ke penonton?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_06002-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_06002-to-00026",
+            "text": "Berisik! Namanya juga baju renang, mau gimana lagi!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00026-5-uniq-0065-00_myself",
+            "text": "Semuanya, ayo buat hari ini jadi kenangan yang terindah! Have a nice day♪"
         }
     },
     {
@@ -107498,6 +109180,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00026_04017-to-00026",
             "text": "Kalau gitu, Watame aja yang makan kamu, deh~!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_06002-5-uniq-0066-00_00026-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_06002-5-uniq-0066-00_00026-to-06002",
+            "text": "Wahai nona cantik berbaju renang, ayo nyanyi bareng Watame!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_06002-5-uniq-0066-00_06002-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_06002-5-uniq-0066-00_06002-to-00026",
+            "text": "Apaa! Nanti aku kasih serangan Tanduk Bor baru tahu rasa!"
         }
     },
     {
@@ -131147,6 +132843,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-06002_00012-5-uniq-0062-00_00012-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_00012-5-uniq-0062-00_00012-to-06002",
+            "text": "Wah, keren banget! Pakein Kanade juga dong!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_00012-5-uniq-0062-00_06002-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_00012-5-uniq-0062-00_06002-to-00012",
+            "text": "Subaru-mama! Aku oleskan minyak tabir surya ya!"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-06002_00012-to-06002",
         "data": {
             "id": "la-text_cv-live_dial_chr-06002_00012-to-06002",
@@ -131203,10 +132913,38 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-06002_00021-5-uniq-0064-00_00021-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_00021-5-uniq-0064-00_00021-to-06002",
+            "text": "Eh? Aku kasih supaya Flare-senpai jadi sejuk loh."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_00021-5-uniq-0064-00_06002-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_00021-5-uniq-0064-00_06002-to-00021",
+            "text": "Flare-senpai, lucu sekali semuanya bunga matahari♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-06002_00021-to-06002",
         "data": {
             "id": "la-text_cv-live_dial_chr-06002_00021-to-06002",
             "text": "Eh? Penilaian macam apa itu?!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_00022-5-uniq-0063-00_00022-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_00022-5-uniq-0063-00_00022-to-06002",
+            "text": "Shabu shabu juga boleh lho!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_00022-5-uniq-0063-00_06002-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_00022-5-uniq-0063-00_06002-to-00022",
+            "text": "Ga-gawat! Aku nggak bisa siram Noel mama!"
         }
     },
     {
@@ -131221,6 +132959,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-06002_00023-to-06002",
             "text": "Eh... Segitunya..."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_00026-5-uniq-0065-00_00026-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_00026-5-uniq-0065-00_00026-to-06002",
+            "text": "Aku, aku, aku! Kanade juga mau ikutan!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_00026-5-uniq-0065-00_06002-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_00026-5-uniq-0065-00_06002-to-00026",
+            "text": "Watame-chan, baju kamu terlalu terbuka loh. Nggak akan mama biarkan!"
         }
     },
     {
@@ -131466,6 +133218,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0058-00_myself",
             "text": "Semoga laguku bisa tersampaikan pada kalian semua〜♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00012-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00012-to-06002",
+            "text": "Eh?! Padahal pengen kubuat semuanya basah kuyup!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00021-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00021-to-06002",
+            "text": "Musim panas itu memang bikin 'PANAS'-aran! Hahaha♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00022-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00022-to-06002",
+            "text": "Ah... Terima kasih mama Noe!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00026-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_00026-to-06002",
+            "text": "Aduh, bisa saja bilang cantik. Jujur banget sih kamu♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00012",
+            "text": "Ugh... Musim panasnya panas banget! Aku hajar juga nih mataharinya!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00021",
+            "text": "Flare-senpai, nggak mau foto bareng Kanade yang pakai baju renang?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00022",
+            "text": "Mama Noel, puji Kanade dong..."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_06002-to-00026",
+            "text": "Watamee-senpai, hati-hati jangan sampai tanduknya bikin baju renang Kanade sobek ya?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_06002-5-uniq-0066-00_myself",
+            "text": "Musim panas adalah waktunya seru-seruan! Semuanya, ayo main sepuasnya bareng Kanade!"
         }
     },
     {
