@@ -1051,7 +1051,7 @@
         "client_id": 871059415040,
         "data": {
             "clientId": "871059415040",
-            "text": "Berlian tidak cukup"
+            "text": "Diamond tidak cukup"
         }
     },
     {
@@ -2540,7 +2540,7 @@
         "client_id": 9630938816519,
         "data": {
             "clientId": "9630938816519",
-            "text": "Dengan Berlian"
+            "text": "Dengan Diamond"
         }
     },
     {
@@ -3462,7 +3462,7 @@
         "client_id": 29189520812543,
         "data": {
             "clientId": "29189520812543",
-            "text": "Batas maksimum Berlian Biru: {0}"
+            "text": "Batas maksimum Diamond Biru: {0}"
         }
     },
     {
@@ -4489,7 +4489,7 @@
         "client_id": 47461192061847,
         "data": {
             "clientId": "47461192061847",
-            "text": "Pengalaman Pembelian Produk atau Berlian Biru"
+            "text": "Pengalaman Pembelian Produk atau Diamond Biru"
         }
     },
     {
@@ -6028,7 +6028,7 @@
         "client_id": 81820715404809,
         "data": {
             "clientId": "81820715404809",
-            "text": "Jumlah Berlian Biru yang dimiliki"
+            "text": "Jumlah Diamond Biru yang dimiliki"
         }
     },
     {
@@ -6147,7 +6147,7 @@
         "client_id": 84124113648839,
         "data": {
             "clientId": "84124113648839",
-            "text": "Membership adalah layanan berlangganan yang memungkinkan pemain menerima berbagai manfaat dengan membayar biaya bulanan.\nMembership tersedia untuk setiap holomem dan manfaatnya bervariasi.\n\n▼ Manfaat selama periode aktif\n・Stiker Keanggotaan\n・Gelar Keanggotaan\n・Tanda Penggemar Resmi\n*Konten membership bervariasi tergantung pada holomem.\n*Fitur membership tidak dapat digunakan jika masa aktif berakhir.\n\n▼Hadiah Pendaftaran/Perpanjangan\n▽Saat Pendaftaran Awal\n・Medal Membership holomem terkait x 6 (Termasuk x 3 Bonus Awal)\n\n▽Perpanjangan Berikutnya\n・Medal Membership holomem terkait x 3\n\n▽Waktu Perpanjangan\n・Medal Membership holomem terkait x 3\n\n*Medal Membership diberikan saat bergabung atau melakukan perpanjangan.\n*Medal Membership yang dapat ditukarkan dengan item Membership.\n*Item yang dibeli dapat digunakan meski pemain membatalkan keanggotaan.\n\n▼ Tentang Masa Berlaku & Perpanjangan Otomatis\nMasa berlaku Membership adalah 1 bulan terhitung dari tanggal pembelian.\nKecuali perpanjangan otomatis dihentikan, langganan akan diperpanjang otomatis setiap bulan, dan masa berlaku akan bertambah 1 bulan setiap kali diperpanjang.\nTanggal perpanjangan dapat dilihat di [Toko] > [Membership].\nWaktu perpanjangan mengikuti waktu pergantian hari di dalam game.\n*Pergantian hari setiap pukul 05.00 JST (Waktu Jepang).\n*Masa aktif dapat bergeser beberapa hari akibat perbedaan waktu sinkronisasi platform, terutama untuk pembelian atau pembaruan di akhir/awal bulan.\n・Harap batalkan Membership setidaknya 72 jam sebelum waktu perpanjangan otomatis.\n*Jika kurang dari 72 jam, ada kemungkinan platform tidak dapat memproses tepat waktu dan Membership tetap diperbarui.\n・Meski melakukan pembatalan selama masa berlaku, pemain tetap menerima layanan Membership hingga masa berlaku berakhir.\n\n▼ Tata Cara Pembatalan Langganan\nPemain dapat melakukan pembatalan langganan dengan mengikuti langkah-langkah berikut:\n\n[Perangkat iOS]\n1. Pilih akun pengguna dari menu [Pengaturan] perangkat.\n2. Pilih opsi [Langganan].\n3. Pilih opsi langganan [hololive Dreams].\n4. Dengan memilih opsi [Batalkan Langganan], perbaruan langganan akan dihentikan.\n\n[Perangkat Android]\n1. Pilih ikon pengguna pada [Google Play Store].\n2. Pilih menu [Pembayaran dan Langganan].\n3. Pilih opsi [Langganan].\n4. Pilih opsi [hololive Dreams].\n5. Pilih opsi [Batalkan Langganan].\n\n*Menghapus data aplikasi atau game serta akun tidak akan menghentikan langganan. Harap perhatikan dengan hati-hati.\n*Jika tidak yakin tentang prosedur yang dilakukan, silakan hubungi layanan penyedia platform.\n\n▼Catatan Penting\n・ Biaya Membership setiap holomem adalah 290 Yen per bulan. Sebagai gambaran berlangganan 1 tahun, totalnya adalah 3.480 Yen untuk 12 bulan termasuk bulan pertama.\n*Harga di atas adalah dalam mata uang Yen Jepang. Harap pastikan nominal aslinya pada layar konfirmasi sebelum melakukan pembayaran.\n・Layanan langganan berlaku untuk data akun game yang digunakan pada saat pembelian.\n*Jika pemain akan membeli layanan langganan di perangkat baru, harap tautkan data akun data game lama sebelum melakukan pembelian layanan langganan kembali.\n・Pembelian langganan tidak dapat dibatalkan atau direfund. Meskipun berhenti berlangganan di tengah masa berlaku, Anda tetap bisa menikmati layanan hingga masa berlaku tersebut berakhir, dan tidak ada pengembalian dana untuk sisa periode yang tidak digunakan.\n・Jika pemain melakukan pembelian langganan pada dua akun atau lebih dan melakukan integrasi data, manfaatnya tidak akan mengalami penggandaan.\n・Pemain mungkin mengalami masalah dalam proses penggunaan langganan. Harap tidak keluar aplikasi saat proses pembelian (menyambung layanan) sedang berlangsung.\n・Jika manfaat langganan tidak muncul di aplikasi setelah membeli langganan, silakan ikuti petunjuk di bawah ini.\nBuka [Menu] → [Toko] → [Membership] di dalam aplikasi hololive Dreams dan pilih tombol [+] yang muncul pada layar [Selesaikan Pembelian].\n・Terdapat pembatasan pembelian layanan langganan bagi pemain yang berusia di bawah 18 tahun.\n・Langganan tidak dapat dibeli pada versi Steam. Keuntungan layanan Membership yang dibeli pada versi iOS dan Andriod juga akan berlaku pada versi Steam di akun yang sama."
+            "text": "Membership adalah layanan berlangganan yang memungkinkan pemain menerima berbagai manfaat dengan membayar biaya bulanan.\nMembership tersedia untuk setiap holomem dan manfaatnya bervariasi.\n\n▼ Manfaat selama periode aktif\n・Stiker Keanggotaan\n・Gelar Keanggotaan\n・Tanda Penggemar Resmi\n*Konten membership bervariasi tergantung pada holomem.\n*Fitur membership tidak dapat digunakan jika masa aktif berakhir.\n\n▼Hadiah Pendaftaran/Perpanjangan\n▽Saat Pendaftaran Awal\n・Medal Membership holomem terkait x 6 (Termasuk x 3 Bonus Awal)\n\n▽Perpanjangan Berikutnya\n・Medal Membership holomem terkait x 3\n\n▽Waktu Perpanjangan\n・Medal Membership holomem terkait x 3\n\n*Medal Membership diberikan saat bergabung atau melakukan perpanjangan.\n*Medal Membership yang dapat ditukarkan dengan item Membership.\n*Item yang dibeli dapat digunakan meski pemain membatalkan keanggotaan.\n\n▼ Tentang Masa Berlaku & Perpanjangan Otomatis\nMasa berlaku Membership adalah 1 bulan terhitung dari tanggal pembelian.\nKecuali perpanjangan otomatis dihentikan, langganan akan diperpanjang otomatis setiap bulan, dan masa berlaku akan bertambah 1 bulan setiap kali diperpanjang.\nTanggal perpanjangan dapat dilihat di [Toko] > [Membership].\nWaktu perpanjangan mengikuti waktu pergantian hari di dalam game.\n*Pergantian hari setiap pukul 05.00 JST (Waktu Jepang).\n*Masa aktif dapat bergeser beberapa hari akibat perbedaan waktu sinkronisasi platform, terutama untuk pembelian atau pembaruan di akhir/awal bulan.\n・Harap batalkan Membership setidaknya 72 jam sebelum waktu perpanjangan otomatis.\n*Jika kurang dari 72 jam, ada kemungkinan platform tidak dapat memproses tepat waktu dan Membership tetap diperbarui.\n・Meski melakukan pembatalan selama masa berlaku, pemain tetap menerima layanan Membership hingga masa berlaku berakhir.\n\n▼ Tata Cara Pembatalan Langganan\nPemain dapat melakukan pembatalan langganan dengan mengikuti langkah-langkah berikut:\n\n[Perangkat iOS]\n1. Pilih akun pengguna dari menu [Pengaturan] perangkat.\n2. Pilih opsi [Langganan].\n3. Pilih opsi langganan [hololive Dreams].\n4. Dengan memilih opsi [Batalkan Langganan], perbaruan langganan akan dihentikan.\n\n[Perangkat Android]\n1. Pilih ikon pengguna pada [Google Play Store].\n2. Pilih menu [Pembayaran dan Langganan].\n3. Pilih opsi [Langganan].\n4. Pilih opsi [hololive Dreams].\n5. Pilih opsi [Batalkan Langganan].\n\n*Menghapus data aplikasi atau game serta akun tidak akan menghentikan langganan. Harap perhatikan dengan hati-hati.\n*Jika tidak yakin tentang prosedur yang dilakukan, silakan hubungi layanan penyedia platform.\n\n▼Catatan Penting\n・ Biaya Membership setiap holomem adalah 290 Yen per bulan. Sebagai gambaran berlangganan 1 tahun, totalnya adalah 3.480 Yen untuk 12 bulan termasuk bulan pertama.\n*Harga di atas adalah dalam mata uang Yen Jepang. Harap pastikan nominal aslinya pada layar konfirmasi sebelum melakukan pembayaran.\n・Layanan langganan berlaku untuk data akun game yang digunakan pada saat pembelian.\n*Jika pemain akan membeli layanan langganan di perangkat baru, harap tautkan data akun data game lama sebelum melakukan pembelian layanan langganan kembali.\n・Pembelian langganan tidak dapat dibatalkan atau direfund. Meskipun berhenti berlangganan di tengah masa berlaku, Anda tetap bisa menikmati layanan hingga masa berlaku tersebut berakhir, dan tidak ada pengembalian dana untuk sisa periode yang tidak digunakan.\n・Jika pemain melakukan pembelian langganan pada dua akun atau lebih dan melakukan integrasi data, manfaatnya tidak akan mengalami penggandaan.\n・Pemain mungkin mengalami masalah dalam proses penggunaan langganan. Harap tidak keluar aplikasi saat proses pembelian (menyambung layanan) sedang berlangsung.\n・Jika manfaat langganan tidak muncul di aplikasi setelah membeli langganan, silakan ikuti petunjuk di bawah ini.\nBuka [Menu] → [Toko] → [Membership] di dalam aplikasi hololive Dreams dan pilih tombol [+] yang muncul pada layar [Selesaikan Pembelian].\n・Terdapat pembatasan pembelian layanan langganan bagi pemain yang berusia di bawah 20 tahun.\n・Langganan tidak dapat dibeli pada versi Steam. Keuntungan layanan Membership yang dibeli pada versi iOS dan Andriod juga akan berlaku pada versi Steam di akun yang sama."
         }
     },
     {
@@ -7190,6 +7190,13 @@
         "data": {
             "clientId": "111296082837699",
             "text": "Meskipun sumber data dihapus, data tersimpan tidak akan hilang"
+        }
+    },
+    {
+        "client_id": 111394954585488,
+        "data": {
+            "clientId": "111394954585488",
+            "text": "Mode Streamer"
         }
     },
     {
@@ -8368,6 +8375,13 @@
         }
     },
     {
+        "client_id": 137583372714351,
+        "data": {
+            "clientId": "137583372714351",
+            "text": "Mode Streamer"
+        }
+    },
+    {
         "client_id": 137970202831969,
         "data": {
             "clientId": "137970202831969",
@@ -8976,6 +8990,13 @@
         }
     },
     {
+        "client_id": 153146890606246,
+        "data": {
+            "clientId": "153146890606246",
+            "text": "Volume untuk lagu tertentu akan menjadi 0."
+        }
+    },
+    {
         "client_id": 153165080415105,
         "data": {
             "clientId": "153165080415105",
@@ -8993,7 +9014,7 @@
         "client_id": 153414965981940,
         "data": {
             "clientId": "153414965981940",
-            "text": "Jumlah Berlian Biru yang dimiliki"
+            "text": "Jumlah Diamond Biru yang dimiliki"
         }
     },
     {
@@ -10992,6 +11013,13 @@
         "data": {
             "clientId": "206518774526289",
             "text": "Jalur 2"
+        }
+    },
+    {
+        "client_id": 206534422761113,
+        "data": {
+            "clientId": "206534422761113",
+            "text": "OK"
         }
     },
     {
@@ -13912,7 +13940,7 @@
         "client_id": 281938455420928,
         "data": {
             "clientId": "281938455420928",
-            "text": "Apakah Anda akan gunakan berlian sebanyak {0} buah dan tarik {2} sebanyak {1} kali?"
+            "text": "Apakah Anda akan gunakan Diamond sebanyak {0} buah dan tarik {2} sebanyak {1} kali?"
         }
     },
     {
@@ -14723,7 +14751,7 @@
         "client_id": 363754832683008,
         "data": {
             "clientId": "363754832683008",
-            "text": "Berlian yang dimiliki akan dihapus dan \"pemulihan akun\" dan\"pengembalian berlian\" tidak dapat dilakukan."
+            "text": "Diamond yang dimiliki akan dihapus dan \"pemulihan akun\" dan\"pengembalian Diamond\" tidak dapat dilakukan."
         }
     },
     {
@@ -15780,7 +15808,7 @@
         "client_id": 463126707593216,
         "data": {
             "clientId": "463126707593216",
-            "text": "Tarik gacha dengan berlian?"
+            "text": "Tarik gacha dengan Diamond?"
         }
     },
     {
@@ -16333,7 +16361,7 @@
         "client_id": 532057429467136,
         "data": {
             "clientId": "532057429467136",
-            "text": "Lembar"
+            "text": "koin"
         }
     },
     {
@@ -17704,7 +17732,7 @@
         "client_id": 653162154614784,
         "data": {
             "clientId": "653162154614784",
-            "text": "Berlian tidak cukup"
+            "text": "Diamond tidak cukup"
         }
     },
     {
@@ -19915,7 +19943,7 @@
         "client_id": 830778751442944,
         "data": {
             "clientId": "830778751442944",
-            "text": "Berlian tidak cukup"
+            "text": "Diamond tidak cukup"
         }
     },
     {
@@ -21266,7 +21294,7 @@
         "client_id": 975018351845376,
         "data": {
             "clientId": "975018351845376",
-            "text": "Apakah akan melanjutkan permainan menggunakan berlian?"
+            "text": "Apakah akan melanjutkan permainan menggunakan Diamond?"
         }
     },
     {
