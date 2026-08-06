@@ -1288,6 +1288,48 @@
         }
     },
     {
+        "id": "la-tips-hint-marathon_mission-description-1",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-1",
+            "text": "<color=#ff3bc8>Event Tantangan Skor</color> adalah event di mana pemain bisa menantang lagu tertentu untuk mendapatkan skor tertinggi!\n\nPemain bisa mendapatkan Lencana Event dengan mendapatkan ranking skor tertinggi pada Score Ranking atau dengan memainkan Live dan minigame selama periode event!\n\nKumpulkan Lencana Event dan tukarkan dengan item seperti Memori Event pada Tempat Penukaran!\n\nAda beberapa lagu tantangan event pada event ini, jangan lupa untuk periksa di layar pemilihan lagu, ya!"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-2",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-2",
+            "text": "<color=#ff3bc8>Total Ranking Skor Tertinggi</color> adalah event di mana pemain berlomba untuk mengumpulkan total skor dari lagu-lagu yang terbatas pada event ini!\n\nKalau bisa mendapatkan ranking yang tinggi, pemain bisa mendapatkan hadiah seperti Lencana eksklusif event!\n\n*Untuk Lagu Tantangan Event, skor event dan skor biasa keduanya akan tersimpan.\n\n*Untuk informasi lebih lanjut, silakan periksa [Event] → [Ranking] → [Total Ranking Skor Tertinggi]."
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-3",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-3",
+            "text": "Untuk tiap lagu tantangan event, <color=#ff3bc8>akan ada kompetisi untuk mendapatkan skor tertinggi untuk waktu terbatas</color>, loh!\n\nKalau berhasil mendapatkan ranking tinggi, pemain bisa mendapatkan Lencana eksklusif event!\n\n*Untuk informasi lebih lanjut, silakan periksa [Event] → [Ranking] → [Ranking Skor Tertinggi]."
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-4",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-4",
+            "text": "<color=#ff3bc8>Bonus Event</color> bisa membantu pemain untuk mendapatkan skor tinggi!\n\nDalam Bonus Event ini, pemain akan medapatkan <color=#ff3bc8>Bonus Skor</color> dengan menambahkan skor secara sementara jika menggunakan member khusus dalam tim dan menantang lagu khusus event!\n\nMember yang bisa mendapatkan bonus skor akan berubah-ubah tergantung lagu event!\n\n*Untuk informasi lebih lanjut, silakan periksa [Event] → [Bonus Event]."
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-5",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-5",
+            "text": "Manfaatkan <color=#ff3bc8>Bonus Event</color> untuk meraih Event Pt dan Lencana Event sebanyak-banyaknya!\n\nBonus Event adalah penambahan <color=#ff3bc8>jumlah Event Pt dan Lencana Event dari Live</color> yang dimainkan.\n\nAda 3 jenis Bonus Perolehan!\n\n▼Bonus Member\n・Mainkan Live dengan member target dalam tim.\n\n▼Bonus holomem\n・Mainkan Live dengan holomem target dalam tim.\n\n▼Bonus Mekar\n・Makin tinggi tingkat Mekar member dalam tim, makin bertambah hadiah saat Live.\n\nSelain itu, ada juga Bonus Event untuk meningkatkan jumlah perolehan Event Pt dan Lencana Event dari Mini-game!\n\n▼Bonus Mini-game\n・Mainkan Mini-game yang ditentukan untuk meningkatkan jumlah bonus.\n\n▼Bonus Member\n・Memiliki member yang diminta, akan meningkatkan jumlah bonus.\n\n*Untuk detailnya silakan periksa [Event]→[Bonus Event]."
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-6",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-6",
+            "text": "Jumlah perolehan Event Pt dan Lencana Event <color=#ff3bc8>akan bertambah seiring tingginya skor</color>.\n\n▼Tentang Perolehan Event Pt dan Lencana Event\n・Bisa juga diperoleh dengan Auto Live.\n・Jumlah hadiah meningkat seiring banyaknya Live Boost yang dikonsumsi.\n・Jumlah hadiah meningkat sesuai durasi lagu."
+        }
+    },
+    {
         "id": "la-tips-hint-marathon_nomal-description-1",
         "data": {
             "id": "la-tips-hint-marathon_nomal-description-1",
@@ -1305,7 +1347,7 @@
         "id": "la-tips-hint-marathon_nomal-description-3",
         "data": {
             "id": "la-tips-hint-marathon_nomal-description-3",
-            "text": "Jumlah perolehan Event Pt dan Lencana Event <color=#ff3bc8>akan bertambah seiring tingginya skor</color>.\n\n▼Tentang Perolehan Event Pt dan Lencana Event\n・Bisa juga diperoleh dengan Auto Live.\n・Jumlah hadiah meningkat seiring banyaknya Live Boost yang dikonsumsi.\n・Jumlah hadiah meningkat sesuai durasi lagu!"
+            "text": "Jumlah perolehan Event Pt dan Lencana Event <color=#ff3bc8>akan bertambah seiring tingginya skor</color>.\n\n▼Tentang Perolehan Event Pt dan Lencana Event\n・Bisa juga diperoleh dengan Auto Live.\n・Jumlah hadiah meningkat seiring banyaknya Live Boost yang dikonsumsi.\n・Jumlah hadiah meningkat sesuai durasi lagu."
         }
     },
     {

@@ -70,6 +70,34 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.1-description",
+            "text": "Saat Minimal 2 member [attribute=pure]Pure Type[/attribute], Performa Naik 32% untuk 2 Member [attribute=pure]Pure Type[/attribute]. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.2-description",
+            "text": "Saat Minimal 2 member [attribute=pure]Pure Type[/attribute], Performa Naik [highlight]43[/highlight]% untuk 2 Member [attribute=pure]Pure Type[/attribute]. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.1-description",
+            "text": "Saat Lebih dari 2 member Gen 0, Efek Score Support meningkat 9% untuk 2 orang Gen 0. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.2-description",
+            "text": "Saat Lebih dari 2 member Gen 0, Efek Score Support meningkat [highlight]12[/highlight]% untuk 2 orang Gen 0. "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

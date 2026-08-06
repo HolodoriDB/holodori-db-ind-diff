@@ -10654,6 +10654,76 @@
         }
     },
     {
+        "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
+            "text": "Dapatkan {0} holomem"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-absolute_live_clear_music_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-absolute_live_clear_music_count",
+            "text": "Selesaikan {0} jenis Live"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_cooking_puzzle_completion_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_cooking_puzzle_completion_count",
+            "text": "Buat {0} masakan di Collect Cooking"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_jump_rope_success_jump_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_jump_rope_success_jump_count",
+            "text": "Lompat {0} kali di Hoppin' Rope"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_live_play_count",
+            "text": "Mainkan Live {0} kali"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_mini_game_stamina_consumption",
+            "text": "Gunakan Total {0} Mini-game Boost."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_mission_clear_count-mission_grp-training_support-260816",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_mission_clear_count-mission_grp-training_support-260816",
+            "text": "Selesaikan semua misi"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_multi_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_multi_live_play_count",
+            "text": "Mainkan Live bersama {0} kali"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_park_present_receive_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_park_present_receive_count",
+            "text": "Terima hadiah dari holomem sebanyak {0} kali"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_work_finish_count",
+            "text": "Selesaikan {0} holowork"
+        }
+    },
+    {
         "id": "la-mission-hidden-gacha-beginner-select-001",
         "data": {
             "id": "la-mission-hidden-gacha-beginner-select-001",
@@ -10693,6 +10763,13 @@
         "data": {
             "id": "la-mission-marathon_event-live_clear_count",
             "text": "Selesaikan lagu event {0} kali"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-live_highest_score",
+        "data": {
+            "id": "la-mission-marathon_event-live_highest_score",
+            "text": "Dapatkan skor {0} pada lagu tantangan event."
         }
     },
     {

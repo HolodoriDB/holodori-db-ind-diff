@@ -631,6 +631,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-detail",
+            "text": "【Bidikan Kilau Pantai Miko】Obrolan"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-01",
+            "text": "【Bidikan Kilau Pantai Miko】Mekar 1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-02",
+            "text": "【Bidikan Kilau Pantai Miko】Mekar 2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-03",
+            "text": "【Bidikan Kilau Pantai Miko】Mekar 3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-04",
+            "text": "【Bidikan Kilau Pantai Miko】Mekar 4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-05",
+            "text": "【Bidikan Kilau Pantai Miko】Mekar 5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-00016_00016-5-uniq-0014-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-00016_00016-5-uniq-0014-00_card-detail",
@@ -772,6 +820,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0004-00_card-potential-05",
             "text": "【Komet Pencuri Hati Suisei】 Mekar 5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-detail",
+            "text": "【Melodi Pistol Air Suisei】Obrolan"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-01",
+            "text": "【Melodi Pistol Air Suisei】Mekar 1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-02",
+            "text": "【Melodi Pistol Air Suisei】Mekar 2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-03",
+            "text": "【Melodi Pistol Air Suisei】Mekar 3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-04",
+            "text": "【Melodi Pistol Air Suisei】Mekar 4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-05",
+            "text": "【Melodi Pistol Air Suisei】Mekar 5"
         }
     },
     {
@@ -3175,6 +3271,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_skill-card",
+            "text": "【Bidikan Kilau Pantai Miko】Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_start-card",
+            "text": "【Bidikan Kilau Pantai Miko】Live Dimulai "
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-00015_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-00015_myself-001",
@@ -3256,6 +3366,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-00018_00018-5-uniq-0004-00_start-card",
             "text": "【Komet Pencuri Hati Suisei】 Live Dimulai "
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_skill-card",
+            "text": "【Melodi Pistol Air Suisei】Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_start-card",
+            "text": "【Melodi Pistol Air Suisei】Live Dimulai "
         }
     },
     {
@@ -13416,6 +13540,27 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00015-to-00018",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00015-to-00018",
+            "text": "【Bidikan Kilau Pantai Miko】Miko&Suisei"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00018-to-00015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00018-to-00015",
+            "text": "【Bidikan Kilau Pantai Miko】Suisei&Miko"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
+            "text": "【Bidikan Kilau Pantai Miko】Skill SP"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00015_00015-to-00001",
         "data": {
             "id": "la-name_cv-live_dial_chr-00015_00015-to-00001",
@@ -13805,6 +13950,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00015_00018-5-uniq-0004-00_00018-to-00015",
             "text": "【Komet Pencuri Hati Suisei】Suisei&Miko"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00015-to-00018",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00015-to-00018",
+            "text": "【Melodi Pistol Air Suisei】Miko&Suisei"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00018-to-00015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00018-to-00015",
+            "text": "【Melodi Pistol Air Suisei】Suisei&Miko"
         }
     },
     {
@@ -15775,6 +15934,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00015-to-00018",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00015-to-00018",
+            "text": "【Bidikan Kilau Pantai Miko】Miko&Suisei"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00018-to-00015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00018-to-00015",
+            "text": "【Bidikan Kilau Pantai Miko】Suisei&Miko"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00018_00015-to-00018",
         "data": {
             "id": "la-name_cv-live_dial_chr-00018_00015-to-00018",
@@ -15828,6 +16001,27 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0004-00_myself",
             "text": "【Komet Pencuri Hati Suisei】 Skill SP"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00015-to-00018",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00015-to-00018",
+            "text": "【Melodi Pistol Air Suisei】Miko&Suisei"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00018-to-00015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00018-to-00015",
+            "text": "【Melodi Pistol Air Suisei】Suisei&Miko"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0068-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0068-00_myself",
+            "text": "【Melodi Pistol Air Suisei】Skill SP"
         }
     },
     {
@@ -89037,6 +89231,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-detail",
+            "text": "Tembakaaaaan Mikochan!!! Horeee, kena kena kenaaa!♪ Kena targetnyaaa!\nHihihi, kalau begini, tim Sui-chan bakal aku kalahkan semuanya!!!\n...E-eh? Kok tiba-tiba udah dikepung sama tim lawan sih?!\nEh tunggu, jangan todongin pistol airnya dong! Emang kalian nggak malu apa, ngeroyok Miko rame-rame begini?!\n...Eh, bohong deh, cuma bercanda kok! Tolong banget nih, boleh nggak pistol airnya diturunin dulu?\nA... A... A... KYAAAAAAAAAAAAAAAAH?!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-get",
+            "text": "Ayo lebih basah kuyup lagi dan nikmati \npanggung musim panas sama Miko!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-01",
+            "text": "Gimana, gimana, baju renang Miko imut kan??? Ehe, ehehe...♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-02",
+            "text": "Ehem♪ Emang ya, kacamata hitam itu barang wajib buat orang dewasa!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-03",
+            "text": "Nice nice nice! Gerakan yang bagus♪ Terusin sampai semua musuh rataaaa!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-04",
+            "text": "Gawat, gawat, bisa kena serang! Siapa pun, jadi tameng buat Miko dong!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-05",
+            "text": "U-u-ugghhh... Makasih ya udah ngelindungin aku tadi. Kali ini biar aku yang jaga kamu, janji deh!"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-00016_00016-5-uniq-0014-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-00016_00016-5-uniq-0014-00_card-detail",
@@ -89181,6 +89424,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0004-00_card-potential-05",
             "text": "Makasih ya udah datang hari ini! Aku akan terus bernyanyi untuk kalian!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-detail",
+            "text": "Oke, semuanya kumpul! Pertarungan melawan tim yang dipimpin Sakura Miko bakal segera dimulai.\nTarget tim kita cuma satu, kemenangan telak!!! Jangan gentar, sikat musuh pakai pistol air kalian sampai puas!\nKalau sudah ngerti, teriakkk yang kencanggg! YEEEYYYYYY☆\nHaah... Badanku nggak berhenti gemeteran karena semangat. Pengen banget liat muka Mikochi yang tegang ketakutan pas ditodong pistol air sama Sui-chan... Pokoknya harus liat!\nAyo cepetan, biarkan Hoshimachi dengar teriakan dia!\nEh? Sudah mulai nih??? Akhirnyaaaa! Serbuuuu☆ Yeeeeeey♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-get",
+            "text": "Panas banget! Tapi, seruuuuuu♪ \nAyo main sepuasnya bareng Sui-chan di musim panas!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-01",
+            "text": "Kacamata hitam ini keren kan? Jangan berdiri di belakangku... Bercanda deh☆"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-02",
+            "text": "Aku nggak bakal mundur selangkah pun! Gemetarlah kalian melihat \"HOSHIMACHI\" di dadaku ini!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-03",
+            "text": "Makasih ya sudah dibantu! Aku pasti bakal balas budi. Serahkan saja punggungmu itu ke Sui-chan☆"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-04",
+            "text": "Kemenangan tim Sui-chan sudah dekat! Ayo buat Mikochi tersungkur di tanah!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-05",
+            "text": "Nih jusnya. Hari ini kamu hebat banget, kan? Makasih yaa☆ Kapan-kapan main bareng lagi yuk♪"
         }
     },
     {
@@ -91627,6 +91919,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_skill-card",
+            "text": "Senyum bersinar Mikochi!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_start-card",
+            "text": "Ayo nikmati musim panas sepuasnya bareng Miko♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-00015_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-00015_myself-001",
@@ -91708,6 +92014,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-00018_00018-5-uniq-0004-00_start-card",
             "text": "Demi bisa berdiri di tempat itu suatu hari nanti!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_skill-card",
+            "text": "Inilah Hoshimachi Suisei yang berkilau di musim panas☆"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_start-card",
+            "text": "Angkat pistol air kalian yang tinggi! Ayo tembak!"
         }
     },
     {
@@ -101868,6 +102188,27 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00015-to-00018",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00015-to-00018",
+            "text": "Panasnya~ Panggung ini panas loh, Sui-chan..."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00018-to-00015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00018-to-00015",
+            "text": "Wooooh, Miko bakal bikin suasana makin panas dan seru kayak matahari musim panas!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
+            "text": "Ayo lebih basah kuyup lagi dan nikmati panggung musim panas sama Miko!"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00015_00015-to-00001",
         "data": {
             "id": "la-text_cv-live_dial_chr-00015_00015-to-00001",
@@ -102257,6 +102598,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00015_00018-5-uniq-0004-00_00018-to-00015",
             "text": "miComet!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00015-to-00018",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00015-to-00018",
+            "text": "Biarpun musim panas, miComet tetep apa~?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00018-to-00015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00018-to-00015",
+            "text": "Woooiii! Jangan arahin pistol airnya ke Miko dong!"
         }
     },
     {
@@ -104227,6 +104582,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00015-to-00018",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00015-to-00018",
+            "text": "Oke♪ Biar aku guyur air ke kepalamu ya☆"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00018-to-00015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00018-to-00015",
+            "text": "Woi Sakura Miko, emangnya kamu berani?!"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00018_00015-to-00018",
         "data": {
             "id": "la-text_cv-live_dial_chr-00018_00015-to-00018",
@@ -104280,6 +104649,27 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00018_00018-5-uniq-0004-00_myself",
             "text": "Aku akan senang kalau kalian mendukung Sui-chan yang selalu berkembang!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00015-to-00018",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00015-to-00018",
+            "text": "Dengan ini, kami bersumpah untuk menjadi teman bisnis!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00018-to-00015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00018-to-00015",
+            "text": "Targetku adalah Mikochi! Terima nih, akan kubuat kamu basah kuyup!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00018_00018-5-uniq-0068-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00018_00018-5-uniq-0068-00_myself",
+            "text": "Panas banget! Tapi, seruuuuuu♪ Ayo main sepuasnya bareng Sui-chan di musim panas!"
         }
     },
     {
@@ -110719,7 +111109,7 @@
         "id": "la-text_cv-live_dial_chr-00028_04013-to-00028",
         "data": {
             "id": "la-text_cv-live_dial_chr-00028_04013-to-00028",
-            "text": "Bukan~. Nnatan itu Princess,  lho?"
+            "text": "Bukan~. Nnatan itu Princess, lho?"
         }
     },
     {
@@ -112602,7 +112992,7 @@
         "id": "la-text_cv-live_dial_chr-00032_00032-to-00006",
         "data": {
             "id": "la-text_cv-live_dial_chr-00032_00032-to-00006",
-            "text": "Fubu-chan, La-lion!"
+            "text": "Fubu-chan, La-Lion!"
         }
     },
     {
@@ -115745,7 +116135,7 @@
         "id": "la-text_cv-live_dial_chr-00037_00037-5-uniq-0030-00_00037-to-00036",
         "data": {
             "id": "la-text_cv-live_dial_chr-00037_00037-5-uniq-0030-00_00037-to-00036",
-            "text": "Lui-lui, boleh peluk nggak? Gyuu~♪"
+            "text": "LuiLui, boleh peluk nggak? Gyuu~♪"
         }
     },
     {
@@ -125489,7 +125879,7 @@
         "id": "la-text_cv-live_dial_chr-04002_04002-to-04012",
         "data": {
             "id": "la-text_cv-live_dial_chr-04002_04002-to-04012",
-            "text": "Bae-chan, bisa niruin tariannya Kiara nggak~?"
+            "text": "Bae, bisa niruin tariannya Kiara nggak~?"
         }
     },
     {
@@ -136276,7 +136666,7 @@
         "id": "la-text_cv-park_call_chr-00032_area-01",
         "data": {
             "id": "la-text_cv-park_call_chr-00032_area-01",
-            "text": "Ting tong ting tong~ ♪\nLa-lion♪ Aku Shishiro Botan dari hololive generasi 5!\nSelamat datang di Harmony Garden!\nKalian udah datang ke Nepolabo Mart punya gen 5 belum?\nYang belum, ayo mampir deh. Dijamin nggak bakal nyasar, gampang banget nemunya.\nSoalnya, SSRB-ku lagi asik ngunyah-ngunyah barang dagangan sih.\nPokoknya, kalo ada waktu, mampir ya.\nAda macem-macem barang lho, koleksinya keren abis. Dijamin nggak bakal nyesel deh.\n...Oh iya, di sini gak ada ramen ya.\nSebenernya pengen bikin sih~ tapi dapur buat masaknya belum ada.\nAku tunggu di Nepolabo Mart ya~ Bye-bye!"
+            "text": "Ting tong ting tong~ ♪\nLa-Lion♪ Aku Shishiro Botan dari hololive generasi 5!\nSelamat datang di Harmony Garden!\nKalian udah datang ke Nepolabo Mart punya gen 5 belum?\nYang belum, ayo mampir deh. Dijamin nggak bakal nyasar, gampang banget nemunya.\nSoalnya, SSRB-ku lagi asik ngunyah-ngunyah barang dagangan sih.\nPokoknya, kalo ada waktu, mampir ya.\nAda macem-macem barang lho, koleksinya keren abis. Dijamin nggak bakal nyesel deh.\n...Oh iya, di sini gak ada ramen ya.\nSebenernya pengen bikin sih~ tapi dapur buat masaknya belum ada.\nAku tunggu di Nepolabo Mart ya~ Bye-bye!"
         }
     },
     {
@@ -143269,7 +143659,7 @@
         "id": "la-text_cv-sys_chr-00013_character-profile",
         "data": {
             "id": "la-text_cv-sys_chr-00013_character-profile",
-            "text": "Kon azuki! Dengan mikrofon di tangan kananku dan peta di tangan kiriku, aku siap untuk menangkap hatimu! Aku AZKi!"
+            "text": "Kon AZKi! Dengan mikrofon di tangan kananku dan peta di tangan kiriku, aku siap untuk menangkap hatimu! Aku AZKi!"
         }
     },
     {
@@ -152313,7 +152703,7 @@
         "id": "la-text_cv-sys_chr-00028_live-finish-success",
         "data": {
             "id": "la-text_cv-sys_chr-00028_live-finish-success",
-            "text": "Luna kalau serius ya bakal serius."
+            "text": "Nnatan kalau serius ya bakal serius."
         }
     },
     {
@@ -154399,7 +154789,7 @@
         "id": "la-text_cv-sys_chr-00032_character-profile",
         "data": {
             "id": "la-text_cv-sys_chr-00032_character-profile",
-            "text": "La Lion, Aku Shishiro Botan."
+            "text": "La-Lion, Aku Shishiro Botan."
         }
     },
     {
@@ -154602,7 +154992,7 @@
         "id": "la-text_cv-sys_chr-00032_live-start-003",
         "data": {
             "id": "la-text_cv-sys_chr-00032_live-start-003",
-            "text": "Gigit gigit semua, La La lion!"
+            "text": "Gigit gigit semua, La-Lion!"
         }
     },
     {
