@@ -98,6 +98,76 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00010-5-uniq-0069-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00010-5-uniq-0069-00.1-description",
+            "text": "Saat Lebih dari 2 member Gen 2, Efek Score Support meningkat 9% untuk 2 orang Gen 2. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00010-5-uniq-0069-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00010-5-uniq-0069-00.2-description",
+            "text": "Saat Lebih dari 2 member Gen 2, Efek Score Support meningkat [highlight]12[/highlight]% untuk 2 orang Gen 2. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00028-5-uniq-0070-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00028-5-uniq-0070-00.1-description",
+            "text": "Performa Naik 32% untuk 2 orang Gen 4. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00028-5-uniq-0070-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00028-5-uniq-0070-00.2-description",
+            "text": "Performa Naik [highlight]43[/highlight]% untuk 2 orang Gen 4. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03004-5-uniq-0073-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03004-5-uniq-0073-00.1-description",
+            "text": "Saat Minimal 2 member [attribute=happy]Happy Type[/attribute], Sense Naik 32% untuk 2 Member [attribute=happy]Happy Type[/attribute]. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03004-5-uniq-0073-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03004-5-uniq-0073-00.2-description",
+            "text": "Saat Minimal 2 member [attribute=happy]Happy Type[/attribute], Sense Naik [highlight]43[/highlight]% untuk 2 Member [attribute=happy]Happy Type[/attribute]. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04001-5-uniq-0071-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04001-5-uniq-0071-00.1-description",
+            "text": "Saat Minimal 2 member [attribute=cute]Cute Type[/attribute], Sense Naik 32% untuk 2 Member [attribute=cute]Cute Type[/attribute]. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04001-5-uniq-0071-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04001-5-uniq-0071-00.2-description",
+            "text": "Saat Minimal 2 member [attribute=cute]Cute Type[/attribute], Sense Naik [highlight]43[/highlight]% untuk 2 Member [attribute=cute]Cute Type[/attribute]. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04003-5-uniq-0072-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04003-5-uniq-0072-00.1-description",
+            "text": "Sense Naik 32% untuk 2 orang Myth. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04003-5-uniq-0072-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04003-5-uniq-0072-00.2-description",
+            "text": "Sense Naik [highlight]43[/highlight]% untuk 2 orang Myth. "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

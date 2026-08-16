@@ -10787,10 +10787,24 @@
         }
     },
     {
+        "id": "la-mission-marathon_event-marathon_live_play_count",
+        "data": {
+            "id": "la-mission-marathon_event-marathon_live_play_count",
+            "text": "Mainkan lagu event di chapter ini sebanyak {0} kali"
+        }
+    },
+    {
         "id": "la-mission-marathon_event-marathon_score_quantity",
         "data": {
             "id": "la-mission-marathon_event-marathon_score_quantity",
             "text": "Dapatkan {0} Pt Event"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-marathon_score_quantity_chapter",
+        "data": {
+            "id": "la-mission-marathon_event-marathon_score_quantity_chapter",
+            "text": "Dapatkan {0} Event Pt di chapter ini"
         }
     },
     {

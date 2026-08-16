@@ -49,6 +49,41 @@
         }
     },
     {
+        "id": "la-generated-live_leader_skill-card-00010-5-uniq-0069-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00010-5-uniq-0069-00-description",
+            "text": "Saat Lebih dari 2 member Gen 2, Teknik Naik 135% untuk Setiap Member. "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00028-5-uniq-0070-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00028-5-uniq-0070-00-description",
+            "text": "Saat Lebih dari 2 member Gen 4, Performa Naik 135% untuk Setiap Member. "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-03004-5-uniq-0073-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-03004-5-uniq-0073-00-description",
+            "text": "Saat Minimal 2 member [attribute=happy]Happy Type[/attribute], Sense Naik 80% untuk Setiap Member. Saat Minimal 2 member [attribute=happy]Happy Type[/attribute], Efek Score Support meningkat 25% untuk Setiap Member."
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-04001-5-uniq-0071-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-04001-5-uniq-0071-00-description",
+            "text": "Saat Minimal 2 member [attribute=cute]Cute Type[/attribute], Sense Naik 80% untuk Setiap Member. Saat Minimal 2 member [attribute=cute]Cute Type[/attribute], Efek Score Support meningkat 25% untuk Setiap Member."
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-04003-5-uniq-0072-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-04003-5-uniq-0072-00-description",
+            "text": "Saat Lebih dari 2 member Myth, Sense Naik 135% untuk Setiap Member. "
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
         "data": {
             "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",

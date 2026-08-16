@@ -896,6 +896,90 @@
         }
     },
     {
+        "id": "la-item-event_badge-marathon_event-relay-001-all-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-all-description",
+            "text": "Lencana event dapat ditukar di tempat Penukaran Event (Semua).\nAkan dikonversi ke hologold setelah periode selesai."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-all-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-all-name",
+            "text": "Lencana Event (Semua)"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-01-description",
+            "text": "Lencana event dapat ditukar di tempat Penukaran Event (Calliope).\nAkan dikonversi ke hologold setelah periode selesai."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-01-name",
+            "text": "Lencana Event (Calliope)"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-02-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-02-description",
+            "text": "Lencana event dapat ditukar di tempat Penukaran Event (Ayame).\nAkan dikonversi ke hologold setelah periode selesai."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-02-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-02-name",
+            "text": "Lencana Event (Ayame)"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-03-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-03-description",
+            "text": "Lencana event dapat ditukar di tempat Penukaran Event (Ollie).\nAkan dikonversi ke hologold setelah periode selesai."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-03-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-03-name",
+            "text": "Lencana Event (Ollie)"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-04-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-04-description",
+            "text": "Lencana event dapat ditukar di tempat Penukaran Event (Luna).\nAkan dikonversi ke hologold setelah periode selesai."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-04-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-04-name",
+            "text": "Lencana Event (Luna)"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-05-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-05-description",
+            "text": "Lencana event dapat ditukar di tempat Penukaran Event (Ina'nis).\nAkan dikonversi ke hologold setelah periode selesai."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-05-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-05-name",
+            "text": "Lencana Event (Ina'nis)"
+        }
+    },
+    {
         "id": "la-item-exchange-holomedal-description",
         "data": {
             "id": "la-item-exchange-holomedal-description",

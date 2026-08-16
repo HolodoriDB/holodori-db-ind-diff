@@ -49,6 +49,13 @@
         }
     },
     {
+        "id": "la-character_story-chr-00010-002",
+        "data": {
+            "id": "la-character_story-chr-00010-002",
+            "text": "Tiada Penyesalan di Musim Panas"
+        }
+    },
+    {
         "id": "la-character_story-chr-00011-001",
         "data": {
             "id": "la-character_story-chr-00011-001",
@@ -154,6 +161,13 @@
         }
     },
     {
+        "id": "la-character_story-chr-00028-002",
+        "data": {
+            "id": "la-character_story-chr-00028-002",
+            "text": "Kolam Musim Panas Tuan Putri☆"
+        }
+    },
+    {
         "id": "la-character_story-chr-00030-001",
         "data": {
             "id": "la-character_story-chr-00030-001",
@@ -238,6 +252,13 @@
         }
     },
     {
+        "id": "la-character_story-chr-03004-002",
+        "data": {
+            "id": "la-character_story-chr-03004-002",
+            "text": "Crazy Shopping di Musim Panas"
+        }
+    },
+    {
         "id": "la-character_story-chr-03005-001",
         "data": {
             "id": "la-character_story-chr-03005-001",
@@ -280,6 +301,13 @@
         }
     },
     {
+        "id": "la-character_story-chr-04001-002",
+        "data": {
+            "id": "la-character_story-chr-04001-002",
+            "text": "Konser Pantai sang Reaper"
+        }
+    },
+    {
         "id": "la-character_story-chr-04002-001",
         "data": {
             "id": "la-character_story-chr-04002-001",
@@ -291,6 +319,13 @@
         "data": {
             "id": "la-character_story-chr-04003-001",
             "text": "Perjuangan Sang Gadis Pemalu"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04003-002",
+        "data": {
+            "id": "la-character_story-chr-04003-002",
+            "text": "Hari Musim Panas WAH-nderful☆"
         }
     },
     {
