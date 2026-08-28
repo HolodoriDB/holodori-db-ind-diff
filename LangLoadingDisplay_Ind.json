@@ -364,6 +364,34 @@
         }
     },
     {
+        "id": "la-loading_display-tips-mg-chase-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-001-text",
+            "text": "Menggunakan kunci secara berurutan akan mempercepat waktu penggunaannya!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-001-title",
+            "text": "Petunjuk Shadowbound Chase  (Tim Jahil)"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-002-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-002-text",
+            "text": "Coba aktifkan skill dengan timing yang tepat!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-002-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-002-title",
+            "text": "Petunjuk Shadowbound Chase (Tim Patroli)"
+        }
+    },
+    {
         "id": "la-loading_display-tips-mg-circuit-001-text",
         "data": {
             "id": "la-loading_display-tips-mg-circuit-001-text",

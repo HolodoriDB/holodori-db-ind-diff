@@ -224,6 +224,20 @@
         }
     },
     {
+        "id": "la-help_category-faq-live-6-text",
+        "data": {
+            "id": "la-help_category-faq-live-6-text",
+            "text": "Jika Skill Aktif dengan efek yang sama aktif secara bersamaan, efek dengan tingkat yang lebih tinggi yang akan diprioritaskan."
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-6-title",
+        "data": {
+            "id": "la-help_category-faq-live-6-title",
+            "text": "Jika beberapa Skill Aktif  dengan efek yang sama aktif bersamaan, apakah efeknya akan menumpuk (stack)?"
+        }
+    },
+    {
         "id": "la-help_category-faq-others-1-text",
         "data": {
             "id": "la-help_category-faq-others-1-text",
@@ -382,6 +396,20 @@
         "data": {
             "id": "la-help_category-faq-questions-2-text",
             "text": "Pembatalan langganan Membership dan HoloPaspor dapat dilakukan dengan langkah-langkah di bawah ini.\n\n[iOS]\n1. Pilih akun pengguna Anda dari [Pengaturan] pada perangkat.\n2. Pilih [Langganan].\n3. Pilih langganan [hololive Dreams].\n4. Pilih [Batalkan Langganan] untuk membatalkan langganan.\n\n[Android]\n1. Pilih ikon pengguna dari [Google Play Store].\n2. Pilih [Pembayaran & Langganan].\n3. Pilih [Langganan].\n4. Pilih [hololive Dreams].\n5. Pilih [Batalkan Langganan].\n\n▼Peringatan\n・Jika tidak memahami prosedur pembatalan, silakan hubungi platform yang Anda gunakan.\n・Menghapus aplikasi atau menghapus data game (akun) tidak akan membatalkan langganan Anda. Harap diperhatikan.\n・Saat membatalkan, harap lakukan setidaknya 3 hari (72 jam) sebelum pembaruan otomatis.\n※ Jika melewati batas 3 hari (72 jam) sebelumnya, waktu sinkronisasi pada sisi platform mungkin bergeser, sehingga pembatalan tidak dapat dilakukan pada waktu yang diinginkan.\n・Meskipun membatalkan selama masa berlaku, Anda tetap dapat menerima layanan tersebut hingga masa berlaku berakhir."
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-2-text-android",
+        "data": {
+            "id": "la-help_category-faq-questions-2-text-android",
+            "text": "Pembatalan langganan Membership dan HoloPaspor dapat dilakukan dengan langkah-langkah di bawah ini.\n\n1. Pilih ikon pengguna dari [Google Play Store].\n2. Pilih [Pembayaran & Langganan].\n3. Pilih [Langganan].\n4. Pilih [hololive Dreams].\n5. Pilih [Batalkan Langganan].\n\n▼Peringatan\n・Jika tidak memahami prosedur pembatalan, silakan hubungi platform yang Anda gunakan.\n・Menghapus aplikasi atau menghapus data game (akun) tidak akan membatalkan langganan Anda. Harap diperhatikan.\n・Saat membatalkan, harap lakukan setidaknya 3 hari (72 jam) sebelum pembaruan otomatis.\n※ Jika melewati batas 3 hari (72 jam) sebelumnya, waktu sinkronisasi pada sisi platform mungkin bergeser, sehingga pembatalan tidak dapat dilakukan pada waktu yang diinginkan.\n・Meskipun membatalkan selama masa berlaku, Anda tetap dapat menerima layanan tersebut hingga masa berlaku berakhir."
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-2-text-ios",
+        "data": {
+            "id": "la-help_category-faq-questions-2-text-ios",
+            "text": "Pembatalan langganan Membership dan HoloPaspor dapat dilakukan dengan langkah-langkah di bawah ini.\n\n1. Pilih akun pengguna Anda dari [Pengaturan] pada perangkat.\n2. Pilih [Langganan].\n3. Pilih langganan [hololive Dreams].\n4. Pilih [Batalkan Langganan] untuk membatalkan langganan.\n\n\n▼Peringatan\n・Jika tidak memahami prosedur pembatalan, silakan hubungi platform yang Anda gunakan.\n・Menghapus aplikasi atau menghapus data game (akun) tidak akan membatalkan langganan Anda. Harap diperhatikan.\n・Saat membatalkan, harap lakukan setidaknya 3 hari (72 jam) sebelum pembaruan otomatis.\n※ Jika melewati batas 3 hari (72 jam) sebelumnya, waktu sinkronisasi pada sisi platform mungkin bergeser, sehingga pembatalan tidak dapat dilakukan pada waktu yang diinginkan.\n・Meskipun membatalkan selama masa berlaku, Anda tetap dapat menerima layanan tersebut hingga masa berlaku berakhir."
         }
     },
     {
@@ -577,7 +605,7 @@
         "id": "la-help_category-help-card-2-text",
         "data": {
             "id": "la-help_category-help-card-2-text",
-            "text": "Setiap member memiliki 3 skill di bawah ini.\n\n▼Skill Member\n・Skill Spesial: Skill kuat aktif 1x per Live (Urutan aktif sesuai nomor urut formasi).\n・Skill Aktif: Skill yang aktif berkala selama Live.\n・Skill Pasif: Skill yang selalu aktif selama syarat terpenuhi.\n\nEfek Skill dapat ditingkatkan dengan melakukan mekar pada member."
+            "text": "Setiap member memiliki 3 skill di bawah ini.\n\n▼Skill Member\n・Skill Spesial: Skill kuat aktif 1x per Live (Urutan aktif sesuai nomor urut formasi).\n・Skill Aktif: Skill yang aktif berkala selama Live.\n・Skill Pasif: Skill yang selalu aktif selama syarat terpenuhi.\n\n*Jika Skill Aktif dengan efek yang sama aktif secara bersamaan, efek dengan tingkat yang lebih tinggi yang akan diprioritaskan.\n\nEfek Skill dapat ditingkatkan dengan melakukan mekar pada member."
         }
     },
     {
@@ -1061,6 +1089,20 @@
         "data": {
             "id": "la-help_category-help-game-6-title",
             "text": "Tentang Pokajan!"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-7-text",
+        "data": {
+            "id": "la-help_category-help-game-7-text",
+            "text": "Shadowbound Chase adalah minigame bertema kejar-kejaran di mana pemain akan dibagi menjadi 2 tim, yaitu Tim Patroli dan Tim Jahil. \nTim Jahil akan menang jika berhasil membuka sejumlah fasilitas tanpa tertangkap oleh Tim Patroli. Tim Patroli akan menang jika mereka bisa mencegah fasilitas tersebut dibuka selama durasi tertentu atau jika menangkap semua anggota Tim Jahil. \nHadiah bisa didapatkan berdasarkan skor, terlepas pemain menang atau kalah. \n\nMinigame ini hanya bisa dimainkan secara \"Multiplayer\", dan bisa dimainkan hingga 10 orang. \n\nUntuk detail lebih lanjut, silakan pilih [?] pada layar Shadowbound Chase untuk melihat cara bermain."
+        }
+    },
+    {
+        "id": "la-help_category-help-game-7-title",
+        "data": {
+            "id": "la-help_category-help-game-7-title",
+            "text": "Mengenai Shadowbound Chase"
         }
     },
     {

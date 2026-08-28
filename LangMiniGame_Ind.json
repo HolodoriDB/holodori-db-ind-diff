@@ -1,5 +1,33 @@
 [
     {
+        "id": "la-mini_game-chase-description",
+        "data": {
+            "id": "la-mini_game-chase-description",
+            "text": "Bermain kejar-kejaran di Park pada malam hari!"
+        }
+    },
+    {
+        "id": "la-mini_game-chase-name",
+        "data": {
+            "id": "la-mini_game-chase-name",
+            "text": "Shadowbound Chase"
+        }
+    },
+    {
+        "id": "la-mini_game-chase-ranking_score_type_lang_id",
+        "data": {
+            "id": "la-mini_game-chase-ranking_score_type_lang_id",
+            "text": "Skor"
+        }
+    },
+    {
+        "id": "la-mini_game-chase_game-ranking_view_description_lang_id",
+        "data": {
+            "id": "la-mini_game-chase_game-ranking_view_description_lang_id",
+            "text": "Tampilkan Top 100 Skor Terbaik."
+        }
+    },
+    {
         "id": "la-mini_game-circuit-description",
         "data": {
             "id": "la-mini_game-circuit-description",

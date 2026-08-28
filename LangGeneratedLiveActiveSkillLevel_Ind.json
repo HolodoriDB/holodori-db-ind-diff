@@ -196,6 +196,62 @@
         }
     },
     {
+        "id": "la-generated-live_active_skill-card-00006-5-uniq-0074-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00006-5-uniq-0074-00.1-description",
+            "text": "Selama 13 dtk, Skor Naik 95% setiap 35 dtk dengan Peluang Sedang "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00006-5-uniq-0074-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00006-5-uniq-0074-00.2-description",
+            "text": "Selama 13 dtk, Skor Naik [highlight]115[/highlight]% setiap 35 dtk dengan Peluang Sedang "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00014-5-uniq-0075-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00014-5-uniq-0075-00.1-description",
+            "text": "Selama 8 dtk, Skor Naik 100% setiap 23 dtk dengan Peluang Sedang "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00014-5-uniq-0075-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00014-5-uniq-0075-00.2-description",
+            "text": "Selama 8 dtk, Skor Naik [highlight]120[/highlight]% setiap 23 dtk dengan Peluang Sedang "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00016-5-uniq-0076-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00016-5-uniq-0076-00.1-description",
+            "text": "Selama 10 dtk, Skor Naik 95% setiap 28 dtk dengan Peluang Tinggi "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00016-5-uniq-0076-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00016-5-uniq-0076-00.2-description",
+            "text": "Selama 10 dtk, Skor Naik [highlight]110[/highlight]% setiap 28 dtk dengan Peluang Tinggi "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00017-5-uniq-0077-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00017-5-uniq-0077-00.1-description",
+            "text": "Selama 11 dtk, Skor Naik 50% setiap 32 dtk dengan Peluang Tinggi Minimal 2 member [attribute=pure]Pure Type[/attribute] Skor Naik 100% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00017-5-uniq-0077-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00017-5-uniq-0077-00.2-description",
+            "text": "Selama 11 dtk, Skor Naik [highlight]60[/highlight]% setiap 32 dtk dengan Peluang Tinggi Minimal 2 member [attribute=pure]Pure Type[/attribute] Skor Naik [highlight]120[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
         "data": {
             "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",

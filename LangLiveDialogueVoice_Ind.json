@@ -1,5 +1,12 @@
 [
     {
+        "id": "la-name_cv-live_dial_chr-00006_00006-5-uniq-0074-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00006_00006-5-uniq-0074-00_myself",
+            "text": "【Kilau Pesisir Fubuki】Skill SP"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself",
@@ -14,10 +21,31 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00014_00014-5-uniq-0075-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00014_00014-5-uniq-0075-00_myself",
+            "text": "【Mimpi Serigala Senja Mio】Skill SP"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
             "text": "【Bidikan Kilau Pantai Miko】Skill SP"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00016_00016-5-uniq-0076-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00016_00016-5-uniq-0076-00_myself",
+            "text": "【Bayangan Teduh Parasol Okayu】Skill SP"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00017_00017-5-uniq-0077-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00017_00017-5-uniq-0077-00_myself",
+            "text": "【Pesta Rimba Membara Korone】Skill SP"
         }
     },
     {
@@ -256,6 +284,48 @@
         "data": {
             "id": "la-name_live_dial_voice_card_00006-5-uniq-0007-00_myself",
             "text": "【Ritual Kitsune Fubuki】 Skill SP"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00014",
+            "text": "【Kilau Pesisir Fubuki】Fubuki&Mio"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00016",
+            "text": "【Kilau Pesisir Fubuki】Fubuki&Okayu"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00017",
+            "text": "【Kilau Pesisir Fubuki】Fubuki&Korone"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00014-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00014-to-00006",
+            "text": "【Kilau Pesisir Fubuki】Mio&Fubuki"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00016-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00016-to-00006",
+            "text": "【Kilau Pesisir Fubuki】Okayu&Fubuki"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00017-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00017-to-00006",
+            "text": "【Kilau Pesisir Fubuki】Korone&Fubuki"
         }
     },
     {
@@ -525,6 +595,48 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00006-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00006-to-00014",
+            "text": "【Mimpi Serigala Senja Mio】Fubuki&Mio"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00006",
+            "text": "【Mimpi Serigala Senja Mio】Mio&Fubuki"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00016",
+            "text": "【Mimpi Serigala Senja Mio】Mio&Okayu"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00017",
+            "text": "【Mimpi Serigala Senja Mio】Mio&Korone"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00016-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00016-to-00014",
+            "text": "【Mimpi Serigala Senja Mio】Okayu&Mio"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00017-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00017-to-00014",
+            "text": "【Mimpi Serigala Senja Mio】Korone&Mio"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00015-5-uniq-0003-00_00015-to-00001",
         "data": {
             "id": "la-name_live_dial_voice_card_00015-5-uniq-0003-00_00015-to-00001",
@@ -602,6 +714,48 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00006-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00006-to-00016",
+            "text": "【Bayangan Teduh Parasol Okayu】Fubuki&Okayu"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00014-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00014-to-00016",
+            "text": "【Bayangan Teduh Parasol Okayu】Mio&Okayu"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00006",
+            "text": "【Bayangan Teduh Parasol Okayu】Okayu&Fubuki"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00014",
+            "text": "【Bayangan Teduh Parasol Okayu】Okayu&Mio"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00017",
+            "text": "【Bayangan Teduh Parasol Okayu】Okayu&Korone"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00017-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00017-to-00016",
+            "text": "【Bayangan Teduh Parasol Okayu】Korone&Okayu"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00017-5-uniq-0015-00_00017-to-00006",
         "data": {
             "id": "la-name_live_dial_voice_card_00017-5-uniq-0015-00_00017-to-00006",
@@ -627,6 +781,48 @@
         "data": {
             "id": "la-name_live_dial_voice_card_00017-5-uniq-0015-00_myself",
             "text": "【Peseluncur Ceria Korone】 Skill SP"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00006-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00006-to-00017",
+            "text": "【Pesta Rimba Membara Korone】Fubuki&Korone"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00014-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00014-to-00017",
+            "text": "【Pesta Rimba Membara Korone】Mio&Korone"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00016-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00016-to-00017",
+            "text": "【Pesta Rimba Membara Korone】Okayu&Korone"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00006",
+            "text": "【Pesta Rimba Membara Korone】Korone&Fubuki"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00014",
+            "text": "【Pesta Rimba Membara Korone】Korone&Mio"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00016",
+            "text": "【Pesta Rimba Membara Korone】Korone&Okayu"
         }
     },
     {

@@ -168,6 +168,62 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00006-5-uniq-0074-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00006-5-uniq-0074-00.1-description",
+            "text": "Efek Score Support meningkat 8% untuk 2 Member [attribute=cute]Cute Type[/attribute]. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00006-5-uniq-0074-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00006-5-uniq-0074-00.2-description",
+            "text": "Efek Score Support meningkat [highlight]11[/highlight]% untuk 2 Member [attribute=cute]Cute Type[/attribute]. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00014-5-uniq-0075-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00014-5-uniq-0075-00.1-description",
+            "text": "Saat Minimal 2 member [attribute=pure]Pure Type[/attribute], Teknik Naik 32% untuk 2 Member [attribute=pure]Pure Type[/attribute]. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00014-5-uniq-0075-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00014-5-uniq-0075-00.2-description",
+            "text": "Saat Minimal 2 member [attribute=pure]Pure Type[/attribute], Teknik Naik [highlight]43[/highlight]% untuk 2 Member [attribute=pure]Pure Type[/attribute]. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00016-5-uniq-0076-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00016-5-uniq-0076-00.1-description",
+            "text": "Performa Naik 32% untuk 2 orang GAMERS. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00016-5-uniq-0076-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00016-5-uniq-0076-00.2-description",
+            "text": "Performa Naik [highlight]43[/highlight]% untuk 2 orang GAMERS. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00017-5-uniq-0077-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00017-5-uniq-0077-00.1-description",
+            "text": "Efek Score Support meningkat 8% untuk 2 Member [attribute=pure]Pure Type[/attribute]. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00017-5-uniq-0077-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00017-5-uniq-0077-00.2-description",
+            "text": "Efek Score Support meningkat [highlight]11[/highlight]% untuk 2 Member [attribute=pure]Pure Type[/attribute]. "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
