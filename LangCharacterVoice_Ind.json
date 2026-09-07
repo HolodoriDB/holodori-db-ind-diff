@@ -1927,6 +1927,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-detail",
+            "text": "【Rehat Si Bos Andal Lui】Obrolan"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-01",
+            "text": "【Rehat Si Bos Andal Lui】Mekar 1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-02",
+            "text": "【Rehat Si Bos Andal Lui】Mekar 2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-03",
+            "text": "【Rehat Si Bos Andal Lui】Mekar 3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-04",
+            "text": "【Rehat Si Bos Andal Lui】Mekar 4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-05",
+            "text": "【Rehat Si Bos Andal Lui】Mekar 5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-00037_00037-5-uniq-0030-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-00037_00037-5-uniq-0030-00_card-detail",
@@ -3079,6 +3127,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-detail",
+            "text": "【Desir Musim Panas Fuwawa】Obrolan"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-01",
+            "text": "【Desir Musim Panas Fuwawa】Mekar 1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-02",
+            "text": "【Desir Musim Panas Fuwawa】Mekar 2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-03",
+            "text": "【Desir Musim Panas Fuwawa】Mekar 3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-04",
+            "text": "【Desir Musim Panas Fuwawa】Mekar 4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-05",
+            "text": "【Desir Musim Panas Fuwawa】Mekar 5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0056-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0056-00_card-detail",
@@ -3124,6 +3220,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0056-00_card-potential-05",
             "text": "【Pesta Donat Santai Mococo】 Mekar 5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-detail",
+            "text": "【Semilir Musim Panas Mococo】Obrolan"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-01",
+            "text": "【Semilir Musim Panas Mococo】Mekar 1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-02",
+            "text": "【Semilir Musim Panas Mococo】Mekar 2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-03",
+            "text": "【Semilir Musim Panas Mococo】Mekar 3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-04",
+            "text": "【Semilir Musim Panas Mococo】Mekar 4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-05",
+            "text": "【Semilir Musim Panas Mococo】Mekar 5"
         }
     },
     {
@@ -4305,6 +4449,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_skill-card",
+            "text": "【Rehat Si Bos Andal Lui】Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_start-card",
+            "text": "【Rehat Si Bos Andal Lui】Live Dimulai "
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-00036_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-00036_myself-001",
@@ -4935,6 +5093,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_skill-card",
+            "text": "【Desir Musim Panas Fuwawa】Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_start-card",
+            "text": "【Desir Musim Panas Fuwawa】Live Dimulai "
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-04016_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-04016_myself-001",
@@ -4960,6 +5132,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-04017_04017-5-uniq-0056-00_start-card",
             "text": "【Pesta Donat Santai Mococo】 Live Dimulai "
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_skill-card",
+            "text": "【Semilir Musim Panas Mococo】Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_start-card",
+            "text": "【Semilir Musim Panas Mococo】Live Dimulai "
         }
     },
     {
@@ -27888,6 +28074,41 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04016",
+            "text": "【Rehat Si Bos Andal Lui】Lui&Fuwawa"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04017",
+            "text": "【Rehat Si Bos Andal Lui】Lui&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04016-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04016-to-00036",
+            "text": "【Rehat Si Bos Andal Lui】Fuwawa&Lui"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04017-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04017-to-00036",
+            "text": "【Rehat Si Bos Andal Lui】Mococo&Lui"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
+            "text": "【Rehat Si Bos Andal Lui】Skill SP"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00036_00036-to-00001",
         "data": {
             "id": "la-name_cv-live_dial_chr-00036_00036-to-00001",
@@ -28413,10 +28634,38 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00036_04016-5-uniq-0079-00_00036-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_04016-5-uniq-0079-00_00036-to-04016",
+            "text": "【Desir Musim Panas Fuwawa】Lui&Fuwawa"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_04016-5-uniq-0079-00_04016-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_04016-5-uniq-0079-00_04016-to-00036",
+            "text": "【Desir Musim Panas Fuwawa】Fuwawa&Lui"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00036_04016-to-00036",
         "data": {
             "id": "la-name_cv-live_dial_chr-00036_04016-to-00036",
             "text": "Fuwawa&Lui"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_04017-5-uniq-0080-00_00036-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_04017-5-uniq-0080-00_00036-to-04017",
+            "text": "【Semilir Musim Panas Mococo】Lui&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_04017-5-uniq-0080-00_04017-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_04017-5-uniq-0080-00_04017-to-00036",
+            "text": "【Semilir Musim Panas Mococo】Mococo&Lui"
         }
     },
     {
@@ -44625,6 +44874,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04016_00036-5-uniq-0078-00_00036-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_00036-5-uniq-0078-00_00036-to-04016",
+            "text": "【Rehat Si Bos Andal Lui】Lui&Fuwawa"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_00036-5-uniq-0078-00_04016-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_00036-5-uniq-0078-00_04016-to-00036",
+            "text": "【Rehat Si Bos Andal Lui】Fuwawa&Lui"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04016_00036-to-04016",
         "data": {
             "id": "la-name_cv-live_dial_chr-04016_00036-to-04016",
@@ -44825,6 +45088,41 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0055-00_myself",
             "text": "【Pesta Donat Empuk Fuwawa】 Skill SP"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_00036-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_00036-to-04016",
+            "text": "【Desir Musim Panas Fuwawa】Lui&Fuwawa"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-00036",
+            "text": "【Desir Musim Panas Fuwawa】Fuwawa&Lui"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-04017",
+            "text": "【Desir Musim Panas Fuwawa】Fuwawa&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04017-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04017-to-04016",
+            "text": "【Desir Musim Panas Fuwawa】Mococo&Fuwawa"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
+            "text": "【Desir Musim Panas Fuwawa】Skill SP"
         }
     },
     {
@@ -45206,6 +45504,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04016-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04016-to-04017",
+            "text": "【Semilir Musim Panas Mococo】Fuwawa&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04017-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04017-to-04016",
+            "text": "【Semilir Musim Panas Mococo】Mococo&Fuwawa"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04016_04017-to-04016",
         "data": {
             "id": "la-name_cv-live_dial_chr-04016_04017-to-04016",
@@ -45430,6 +45742,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04017_00036-5-uniq-0078-00_00036-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_00036-5-uniq-0078-00_00036-to-04017",
+            "text": "【Rehat Si Bos Andal Lui】Lui&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_00036-5-uniq-0078-00_04017-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_00036-5-uniq-0078-00_04017-to-00036",
+            "text": "【Rehat Si Bos Andal Lui】Mococo&Lui"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04017_00036-to-04017",
         "data": {
             "id": "la-name_cv-live_dial_chr-04017_00036-to-04017",
@@ -45605,6 +45931,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04016-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04016-to-04017",
+            "text": "【Desir Musim Panas Fuwawa】Fuwawa&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04017-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04017-to-04016",
+            "text": "【Desir Musim Panas Fuwawa】Mococo&Fuwawa"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04017_04016-to-04017",
         "data": {
             "id": "la-name_cv-live_dial_chr-04017_04016-to-04017",
@@ -45644,6 +45984,41 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0056-00_myself",
             "text": "【Pesta Donat Santai Mococo】 Skill SP"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_00036-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_00036-to-04017",
+            "text": "【Semilir Musim Panas Mococo】Lui&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04016-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04016-to-04017",
+            "text": "【Semilir Musim Panas Mococo】Fuwawa&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-00036",
+            "text": "【Semilir Musim Panas Mococo】Mococo&Lui"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-04016",
+            "text": "【Semilir Musim Panas Mococo】Mococo&Fuwawa"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself",
+            "text": "【Semilir Musim Panas Mococo】Skill SP"
         }
     },
     {
@@ -95095,6 +95470,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-detail",
+            "text": "Aroma laut yang samar... Desiran ombak di telinga... Dan si kembar yang berenang!\nEh, surga? Boleh ya lihat pemandangan seindah ini secara gratis?\nAh, eeeh?! FUWAMOCO melambai ke arahkuuu?!\nDu-duh, gimana nih?! Hei, aku harus bagimana?!\n...O-oke, paham. Santai saja, balas melambai seperti biasa...\nAh, aaah?! Mereka malah melambaikan tangan lebih semangat?!\nGawat... Kebahagiaan yang tak layak didapat oleh tembok seperti aku!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-get",
+            "text": "Aku bersyukur bisa menghabiskan musim panas bersama... Ayo nikmati sampai akhir!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-01",
+            "text": "Jantungku nggak kuat terima kebahagiaan lebih dari ini! Aku jalan-jalan dulu..."
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-02",
+            "text": "Hah, anginnya sejuk ya. Hmm... Aroma musim panas♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-03",
+            "text": "Aku bening banget? Hihi, dipuji juga nggak bakal dapat apa-apa lho♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-04",
+            "text": "Woi, aku tahu kok pengen main di laut, tapi jangan dulu ya. Kamu nggak bawa handuk kan?"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-05",
+            "text": "Kalau nanti kita jalan-jalan lagi, bawa bekal yuk. Nanti kubuatkan salad kentang dan roti lapis♪"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-00037_00037-5-uniq-0030-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-00037_00037-5-uniq-0030-00_card-detail",
@@ -96271,6 +96695,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-detail",
+            "text": "\"Cepuk-cepuk\"♪ Maju terus dayung pakai kaki, BAU BAU♪\nEhehehe, seru banget ya main di laut.\nAh, jangan-jangan kamu penasaran sama pelampung ini?\nAtau, kamu malah... Deg-degan lihat Fuwawa pakai baju renang?\nEhehehe♪ Pelampung ini Lui-nee senpai yang pilihin loh.\nKatanya motif ini cocok banget buat FUWAMOCO.\nJadi, pelampungnya Moco-chan juga sama, cuma beda warna!\nEh, kelihatan enak? No no! Donat ini kalau dimakan bakal kempes!\nKalau mau gigit, mending gigit punya Moco-chan aja!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-get",
+            "text": "Kalau kamu kepanasan, nanti Fuwawa tiup-tiupin ya♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-01",
+            "text": "Mengapung santai pakai pelampung gini enak ya... BAU BAU♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-02",
+            "text": "Bunga tropisnya cantik banget... Kamu suka warna bunga yang mana?"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-03",
+            "text": "Kyaa! Pelampungnya hanyut! Wah, tangkapan yang bagus! Kamu bener-bener penyelamat donat!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-04",
+            "text": "Di sini loh, di sini! Ehehehe♪ Sini coba tangkap aku♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-05",
+            "text": "Hari ini aku bikin kamu deg-degan nggak? Kalau iya, aku senang banget..."
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0056-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0056-00_card-detail",
@@ -96317,6 +96790,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0056-00_card-potential-05",
             "text": "Uh.. Aku mulai ngantuk nih... Boleh pinjem bahunya nggak? Ehehe, hangat banget... BAU BAU"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-detail",
+            "text": "Eh, eh, habis ini main apa lagi?\nYang belum tuh lomba renang gaya anjing, bikin istana pasir, cari kerang cantik, terus...\nHah, voli pantai? Boleh juga! Kebetulan ada Lui-nee senpai sama Fuwawa, jadi bisa main bareng, setuju deh!\nEh tapi, bola volinya mana ya? Ah, itu hanyut ke laut!\nOke, serahin aja ke aku! Di saat begini nih pelampung donat berguna!\nAyo, cepetan dorong ke laut! Aku udah pakai pelampung nih, buruan!\nSip, ayo maju! Dikit lagi, dikit lagi... Dapat, BAU BAU!!!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-get",
+            "text": "Meskipun panas, akan kubuat kalian tetap nyaman! Bersiap  ya, BAU BAU!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-01",
+            "text": "Dilihatin gitu terus jadi malu deh... Baju renang ini cocok gak?"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-02",
+            "text": "Lempar! Smash!!! Fiuh, latihan imajinasi buat voli pantai udah oke♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-03",
+            "text": "Serang! Serang! Waktunya perang air biar jadi basah kuyup! BAU BAU!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-04",
+            "text": "Ah, dia lagi tidur di pasir! Kesempatan nih, ayo kita kubur!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-05",
+            "text": "Sebelum pulang cari kerang yuk! Kalau ketemu yang bagus, kasih Mococo ya♪"
         }
     },
     {
@@ -97503,6 +98025,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_skill-card",
+            "text": "Summer Hawkeye, diaktifkan!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_start-card",
+            "text": "Siap ya! Ayo buat kenangan musim panas bersama!"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-00036_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-00036_myself-001",
@@ -98133,6 +98669,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_skill-card",
+            "text": "Musim panas yang menggelora, come on!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_start-card",
+            "text": "Justru makin panas, harus makin keras suaranya! BAU BAU!"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-04016_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-04016_myself-001",
@@ -98158,6 +98708,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-04017_04017-5-uniq-0056-00_start-card",
             "text": "Ayo! Kita pasti bisa!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_skill-card",
+            "text": "Aku anjing duyung, BAU BAU!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_start-card",
+            "text": "Byuuur♪ Mococo sudah mendarat di lokasi Live♪"
         }
     },
     {
@@ -121086,6 +121650,41 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04016",
+            "text": "Senyum si kembar lebih cantik daripada langit musim panas!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04017",
+            "text": "Senyum si kembar lebih menyilaukan daripada matahari musim panas!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04016-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04016-to-00036",
+            "text": "Chef! Tolong bawakan mie dingin, chef!!!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04017-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04017-to-00036",
+            "text": "Aku adalah tembok, aku adalah tembok, aku adalah tembok..."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
+            "text": "Aku bersyukur bisa menghabiskan musim panas bersama... Ayo nikmati sampai akhir!"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00036_00036-to-00001",
         "data": {
             "id": "la-text_cv-live_dial_chr-00036_00036-to-00001",
@@ -121611,10 +122210,38 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00036_04016-5-uniq-0079-00_00036-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_04016-5-uniq-0079-00_00036-to-04016",
+            "text": "Ayo semuanya, ganti warna lightstick kalian jadi biru."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_04016-5-uniq-0079-00_04016-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_04016-5-uniq-0079-00_04016-to-00036",
+            "text": "Mau, mau, mau! Aku mau!!!"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00036_04016-to-00036",
         "data": {
             "id": "la-text_cv-live_dial_chr-00036_04016-to-00036",
             "text": "Perhatianmu ke semua orang… kebaikan itu… kamu malaikat ya?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_04017-5-uniq-0080-00_00036-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_04017-5-uniq-0080-00_00036-to-04017",
+            "text": "Baju renang Mococo... Pokoknya harus kulindungi!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_04017-5-uniq-0080-00_04017-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_04017-5-uniq-0080-00_04017-to-00036",
+            "text": "Kalau begini namanya hot dog, dong! Hahaha!"
         }
     },
     {
@@ -137823,6 +138450,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04016_00036-5-uniq-0078-00_00036-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_00036-5-uniq-0078-00_00036-to-04016",
+            "text": "Semuanya, jangan lupa tetap minum air ya, BAU BAU♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04016_00036-5-uniq-0078-00_04016-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_00036-5-uniq-0078-00_04016-to-00036",
+            "text": "Semuanya, suka mie dingin nggak? Enak banget, kan♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04016_00036-to-04016",
         "data": {
             "id": "la-text_cv-live_dial_chr-04016_00036-to-04016",
@@ -138023,6 +138664,41 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0055-00_myself",
             "text": "Kami akan terus melindungi senyum semua orang! Bareng-bareng ya... BAU BAU!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_00036-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_00036-to-04016",
+            "text": "Wow! Cantik banget mirip lautan tropis♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-00036",
+            "text": "Semuanya, mau buat kenangan musim panas bareng nggak?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-04017",
+            "text": "Gimana kalau adakan Live di pantai tropis, Moco-chan?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04017-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04017-to-04016",
+            "text": "Ra-rasanya senang sih... Tapi kok malu ya, BAU BAU♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
+            "text": "Kalau kamu kepanasan, nanti Fuwawa tiup-tiupin ya♪"
         }
     },
     {
@@ -138404,6 +139080,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04016-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04016-to-04017",
+            "text": "Eh?! Moco-chan, keringatmu banyak banget! Kamu gak apa-apa?!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04017-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04017-to-04016",
+            "text": "I-imut... Moco-chan seksi banget!!!"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04016_04017-to-04016",
         "data": {
             "id": "la-text_cv-live_dial_chr-04016_04017-to-04016",
@@ -138628,6 +139318,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04017_00036-5-uniq-0078-00_00036-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_00036-5-uniq-0078-00_00036-to-04017",
+            "text": "Semuanya! Jangan mau kalah sama cuaca panas ya! BAU BAU♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04017_00036-5-uniq-0078-00_04017-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_00036-5-uniq-0078-00_04017-to-00036",
+            "text": "Baju renang Lui-nee senpai imut ya! Bandonya modis banget♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04017_00036-to-04017",
         "data": {
             "id": "la-text_cv-live_dial_chr-04017_00036-to-04017",
@@ -138803,6 +139507,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04016-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04016-to-04017",
+            "text": "Ide bagus, sekalian aja kita bangun panggung di atas laut!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04017-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04017-to-04016",
+            "text": "Semuanya! Baju renang Fuwawa imut, kan?!"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04017_04016-to-04017",
         "data": {
             "id": "la-text_cv-live_dial_chr-04017_04016-to-04017",
@@ -138842,6 +139560,41 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0056-00_myself",
             "text": "Kami akan terus melindungi senyum semua orang! Bareng-bareng ya... BAU BAU♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_00036-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_00036-to-04017",
+            "text": "Lui-nee senpai! Live-nya masih belum selesai loh!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04016-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04016-to-04017",
+            "text": "Panas musim panas mah gak ada apa-apanya buatku!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-00036",
+            "text": "Panas banget! Lakukan sesuatu dong, Lui-nee senpai!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-04016",
+            "text": "Fuwawa, kamu ngerti kan? Kalau aku pakai baju renang?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself",
+            "text": "Meskipun panas, akan kubuat kalian tetap nyaman! Bersiap  ya, BAU BAU!"
         }
     },
     {

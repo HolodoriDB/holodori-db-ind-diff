@@ -224,6 +224,48 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00036-5-uniq-0078-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00036-5-uniq-0078-00.1-description",
+            "text": "Saat Lebih dari 2 member holoX, Efek Score Support meningkat 9% untuk 2 orang holoX. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00036-5-uniq-0078-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00036-5-uniq-0078-00.2-description",
+            "text": "Saat Lebih dari 2 member holoX, Efek Score Support meningkat [highlight]12[/highlight]% untuk 2 orang holoX. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04016-5-uniq-0079-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04016-5-uniq-0079-00.1-description",
+            "text": "Saat Minimal 2 member [attribute=pure]Pure Type[/attribute], Semua Stat Diri sendiri Naik 24%. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04016-5-uniq-0079-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04016-5-uniq-0079-00.2-description",
+            "text": "Saat Minimal 2 member [attribute=pure]Pure Type[/attribute], Semua Stat Diri sendiri Naik [highlight]32[/highlight]%. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04017-5-uniq-0080-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04017-5-uniq-0080-00.1-description",
+            "text": "Efek Score Support meningkat 8% untuk 2 Member [attribute=pure]Pure Type[/attribute]. "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04017-5-uniq-0080-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04017-5-uniq-0080-00.2-description",
+            "text": "Efek Score Support meningkat [highlight]11[/highlight]% untuk 2 Member [attribute=pure]Pure Type[/attribute]. "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
