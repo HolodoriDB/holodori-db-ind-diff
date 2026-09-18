@@ -1008,6 +1008,76 @@
         }
     },
     {
+        "id": "la-item-event_badge-marathon_event-relay-002-all-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-002-all-description",
+            "text": "Lencana untuk penukaran item di tempat Penukaran Event (Umum).\nAkan dikonversi ke Hologold setelah periode selesai."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-002-all-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-002-all-name",
+            "text": "Lencana Event (Umum)"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-002-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-002-chapter-01-description",
+            "text": "Badge bisa ditukar dengan item di Toko Penukaran Event (Aki).\n Setelah kadaluarsa, badge akan dikonversikan menjadi Hologold."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-002-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-002-chapter-01-name",
+            "text": "Lencana Event (Aki)"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-002-chapter-02-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-002-chapter-02-description",
+            "text": "Badge bisa ditukar dengan item di Toko Penukaran Event (Shiori).\n Setelah kadaluarsa, badge akan dikonversikan menjadi Hologold."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-002-chapter-02-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-002-chapter-02-name",
+            "text": "Lencana Event (Shiori)"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-002-chapter-03-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-002-chapter-03-description",
+            "text": "Badge bisa ditukar dengan item di Toko Penukaran Event (La+).\n Setelah kadaluarsa, badge akan dikonversikan menjadi Hologold."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-002-chapter-03-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-002-chapter-03-name",
+            "text": "Lencana Event (La+)"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-002-chapter-04-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-002-chapter-04-description",
+            "text": "Badge bisa ditukar dengan item di Toko Penukaran Event (Anya).\n Setelah kadaluarsa, badge akan dikonversikan menjadi Hologold."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-002-chapter-04-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-002-chapter-04-name",
+            "text": "Lencana Event (Anya)"
+        }
+    },
+    {
         "id": "la-item-exchange-holomedal-description",
         "data": {
             "id": "la-item-exchange-holomedal-description",
