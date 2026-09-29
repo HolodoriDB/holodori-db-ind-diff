@@ -924,6 +924,20 @@
         }
     },
     {
+        "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-description",
+            "text": "Lencana dapat ditukar dengan item di tempat Penukaran Event.\nAkan dikonversi menjadi Hologold setelah periode selesai."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-name",
+            "text": "Lencana Event"
+        }
+    },
+    {
         "id": "la-item-event_badge-marathon_event-relay-001-all-description",
         "data": {
             "id": "la-item-event_badge-marathon_event-relay-001-all-description",
@@ -1204,6 +1218,48 @@
         }
     },
     {
+        "id": "la-item-facility-area_a03-001-1-description",
+        "data": {
+            "id": "la-item-facility-area_a03-001-1-description",
+            "text": "Item yang digunakan untuk membangun dan meningkatkan fasilitas"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a03-001-1-name",
+        "data": {
+            "id": "la-item-facility-area_a03-001-1-name",
+            "text": "Kerang"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a03-002-1-description",
+        "data": {
+            "id": "la-item-facility-area_a03-002-1-description",
+            "text": "Item yang digunakan untuk membangun dan meningkatkan fasilitas"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a03-002-1-name",
+        "data": {
+            "id": "la-item-facility-area_a03-002-1-name",
+            "text": "Logam yang hanyut"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a03-003-1-description",
+        "data": {
+            "id": "la-item-facility-area_a03-003-1-description",
+            "text": "Item yang digunakan untuk membangun dan meningkatkan fasilitas"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a03-003-1-name",
+        "data": {
+            "id": "la-item-facility-area_a03-003-1-name",
+            "text": "Kayu apung"
+        }
+    },
+    {
         "id": "la-item-gacha-cmn_sticker-01-description",
         "data": {
             "id": "la-item-gacha-cmn_sticker-01-description",
@@ -1344,6 +1400,20 @@
         }
     },
     {
+        "id": "la-item-mini_game_fishing_coin-description",
+        "data": {
+            "id": "la-item-mini_game_fishing_coin-description",
+            "text": "Item yang digunakan di Toko Penukaran di Soda Pop Lagoon"
+        }
+    },
+    {
+        "id": "la-item-mini_game_fishing_coin-name",
+        "data": {
+            "id": "la-item-mini_game_fishing_coin-name",
+            "text": "Soda Pop Koin "
+        }
+    },
+    {
         "id": "la-item-mini_game_reward_up_stamina_recover-description",
         "data": {
             "id": "la-item-mini_game_reward_up_stamina_recover-description",
@@ -1397,6 +1467,34 @@
         "data": {
             "id": "la-item-quest-area-a01-17-1-2-name",
             "text": "Alat Bersih-bersih"
+        }
+    },
+    {
+        "id": "la-item-quest-area-a03-05-1-1-description",
+        "data": {
+            "id": "la-item-quest-area-a03-05-1-1-description",
+            "text": "Alat pancing  La+ yang tertinggal. Partner setia yang wajib ada saat memancing."
+        }
+    },
+    {
+        "id": "la-item-quest-area-a03-05-1-1-name",
+        "data": {
+            "id": "la-item-quest-area-a03-05-1-1-name",
+            "text": "Alat pancing La+ "
+        }
+    },
+    {
+        "id": "la-item-quest-area-a03-12-1-1-description",
+        "data": {
+            "id": "la-item-quest-area-a03-12-1-1-description",
+            "text": "Bola pantai melayang ke laut akibat lemparan Polka yang meleset. Segera ambil untuk menjamu sang putri!"
+        }
+    },
+    {
+        "id": "la-item-quest-area-a03-12-1-1-name",
+        "data": {
+            "id": "la-item-quest-area-a03-12-1-1-name",
+            "text": "Bola pantai"
         }
     },
     {

@@ -161,6 +161,55 @@
         }
     },
     {
+        "id": "la-generated-live_leader_skill-card-00023-5-uniq-0085-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00023-5-uniq-0085-00-description",
+            "text": "Saat Minimal 2 member [attribute=pure]Pure Type[/attribute], Sense Naik 80% untuk Setiap Member. Saat Minimal 2 member [attribute=pure]Pure Type[/attribute], Efek Score Support meningkat 25% untuk Setiap Member."
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00030-5-uniq-0089-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00030-5-uniq-0089-00-description",
+            "text": "Efek Score Support meningkat 60% untuk Setiap Member. "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00034-5-uniq-0090-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00034-5-uniq-0090-00-description",
+            "text": "Saat Minimal 2 member [attribute=pure]Pure Type[/attribute], Teknik Naik 80% untuk Setiap Member. Saat Minimal 2 member [attribute=pure]Pure Type[/attribute], Efek Score Support meningkat 25% untuk Setiap Member."
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00037-5-uniq-0086-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00037-5-uniq-0086-00-description",
+            "text": "Efek Score Support meningkat 60% untuk Setiap Member. "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-03009-5-uniq-0088-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-03009-5-uniq-0088-00-description",
+            "text": "Saat Minimal 2 member [attribute=cute]Cute Type[/attribute], Sense Naik 130% untuk Setiap Member. "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-04012-5-uniq-0087-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-04012-5-uniq-0087-00-description",
+            "text": "Saat Lebih dari 2 member Promise, Semua Stat Setiap Member Naik 50%. "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-06003-5-uniq-0091-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-06003-5-uniq-0091-00-description",
+            "text": "Saat Minimal 2 member [attribute=cute]Cute Type[/attribute], Teknik Naik 130% untuk Setiap Member. "
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
         "data": {
             "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
