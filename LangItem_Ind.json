@@ -938,6 +938,34 @@
         }
     },
     {
+        "id": "la-item-event_badge-marathon_event-normal-006-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-006-chapter-01-description",
+            "text": "Lencana dapat ditukar dengan item di tempat Penukaran Event.\nAkan dikonversi menjadi Hologold setelah periode selesai."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-normal-006-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-006-chapter-01-name",
+            "text": "Lencana Event"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-normal-007-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-007-chapter-01-description",
+            "text": "Lencana dapat ditukar dengan item di tempat Penukaran Event.\nAkan dikonversi menjadi Hologold setelah periode selesai."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-normal-007-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-007-chapter-01-name",
+            "text": "Lencana Event"
+        }
+    },
+    {
         "id": "la-item-event_badge-marathon_event-relay-001-all-description",
         "data": {
             "id": "la-item-event_badge-marathon_event-relay-001-all-description",

@@ -1783,6 +1783,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-detail",
+            "text": "【Penangkal Gerah Lamy】Obrolan"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-01",
+            "text": "【Penangkal Gerah Lamy】Mekar 1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-02",
+            "text": "【Penangkal Gerah Lamy】Mekar 2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-03",
+            "text": "【Penangkal Gerah Lamy】Mekar 3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-04",
+            "text": "【Penangkal Gerah Lamy】Mekar 4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-05",
+            "text": "【Penangkal Gerah Lamy】Mekar 5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0025-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0025-00_card-detail",
@@ -1924,6 +1972,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0027-00_card-potential-05",
             "text": "【Ilusi Sirkus Polka Polka】 Mekar 5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-detail",
+            "text": "【Pesta BBQ Bersama Polka】Obrolan"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-01",
+            "text": "【Pesta BBQ Bersama Polka】Mekar 1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-02",
+            "text": "【Pesta BBQ Bersama Polka】Mekar 2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-03",
+            "text": "【Pesta BBQ Bersama Polka】Mekar 3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-04",
+            "text": "【Pesta BBQ Bersama Polka】Mekar 4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-05",
+            "text": "【Pesta BBQ Bersama Polka】Mekar 5"
         }
     },
     {
@@ -3799,6 +3895,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-detail",
+            "text": "【Senyum Bintang Malam Ririka】Obrolan"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-01",
+            "text": "【Senyum Bintang Malam Ririka】Mekar 1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-02",
+            "text": "【Senyum Bintang Malam Ririka】Mekar 2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-03",
+            "text": "【Senyum Bintang Malam Ririka】Mekar 3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-04",
+            "text": "【Senyum Bintang Malam Ririka】Mekar 4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-05",
+            "text": "【Senyum Bintang Malam Ririka】Mekar 5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0060-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0060-00_card-detail",
@@ -4721,6 +4865,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_skill-card",
+            "text": "【Penangkal Gerah Lamy】Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_start-card",
+            "text": "【Penangkal Gerah Lamy】Live Dimulai "
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-00030_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-00030_myself-001",
@@ -4802,6 +4960,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-00034_00034-5-uniq-0027-00_start-card",
             "text": "【Ilusi Sirkus Polka Polka】 Live Dimulai "
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_skill-card",
+            "text": "【Pesta BBQ Bersama Polka】Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_start-card",
+            "text": "【Pesta BBQ Bersama Polka】Live Dimulai "
         }
     },
     {
@@ -5712,6 +5884,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-06003_06003-5-uniq-0059-00_start-card",
             "text": "【Ransum Malam CEO Ririka】 Live Dimulai "
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_skill-card",
+            "text": "【Senyum Bintang Malam Ririka】Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_start-card",
+            "text": "【Senyum Bintang Malam Ririka】Live Dimulai "
         }
     },
     {
@@ -21836,6 +22022,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00023-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00023-to-00030",
+            "text": "【Penangkal Gerah Lamy】Marine&Lamy"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00030-to-00023",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00030-to-00023",
+            "text": "【Penangkal Gerah Lamy】Lamy&Marine"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00023_00030-to-00023",
         "data": {
             "id": "la-name_cv-live_dial_chr-00023_00030-to-00023",
@@ -21854,6 +22054,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00023_00032-to-00023",
             "text": "Botan&Marine"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00023-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00023-to-00034",
+            "text": "【Pesta BBQ Bersama Polka】Marine&Polka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00034-to-00023",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00034-to-00023",
+            "text": "【Pesta BBQ Bersama Polka】Polka&Marine"
         }
     },
     {
@@ -22078,6 +22292,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00023_06002-to-00023",
             "text": "Kanade&Marine"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00023_06003-5-uniq-0091-00_00023-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_06003-5-uniq-0091-00_00023-to-06003",
+            "text": "【Senyum Bintang Malam Ririka】Marine&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00023_06003-5-uniq-0091-00_06003-to-00023",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_06003-5-uniq-0091-00_06003-to-00023",
+            "text": "【Senyum Bintang Malam Ririka】Ririka&Marine"
         }
     },
     {
@@ -24853,6 +25081,97 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00023-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00023-to-00030",
+            "text": "【Penangkal Gerah Lamy】Marine&Lamy"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00023",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00023",
+            "text": "【Penangkal Gerah Lamy】Lamy&Marine"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00034",
+            "text": "【Penangkal Gerah Lamy】Lamy&Polka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00037",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00037",
+            "text": "【Penangkal Gerah Lamy】Lamy&Koyori"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-03009",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-03009",
+            "text": "【Penangkal Gerah Lamy】Lamy&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-04012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-04012",
+            "text": "【Penangkal Gerah Lamy】Lamy&Baelz"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-06003",
+            "text": "【Penangkal Gerah Lamy】Lamy&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00034-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00034-to-00030",
+            "text": "【Penangkal Gerah Lamy】Polka&Lamy"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00037-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00037-to-00030",
+            "text": "【Penangkal Gerah Lamy】Koyori&Lamy"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_03009-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_03009-to-00030",
+            "text": "【Penangkal Gerah Lamy】Kobo&Lamy"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_04012-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_04012-to-00030",
+            "text": "【Penangkal Gerah Lamy】Baelz&Lamy"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_06003-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_06003-to-00030",
+            "text": "【Penangkal Gerah Lamy】Ririka&Lamy"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_myself",
+            "text": "【Penangkal Gerah Lamy】Skill SP"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00030_00030-to-00001",
         "data": {
             "id": "la-name_cv-live_dial_chr-00030_00030-to-00001",
@@ -25259,6 +25578,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00030-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00030-to-00034",
+            "text": "【Pesta BBQ Bersama Polka】Lamy&Polka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00034-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00034-to-00030",
+            "text": "【Pesta BBQ Bersama Polka】Polka&Lamy"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00030_00034-to-00030",
         "data": {
             "id": "la-name_cv-live_dial_chr-00030_00034-to-00030",
@@ -25480,6 +25813,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00030_06002-to-00030",
             "text": "Kanade&Lamy"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_06003-5-uniq-0091-00_00030-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_06003-5-uniq-0091-00_00030-to-06003",
+            "text": "【Senyum Bintang Malam Ririka】Lamy&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_06003-5-uniq-0091-00_06003-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_06003-5-uniq-0091-00_06003-to-00030",
+            "text": "【Senyum Bintang Malam Ririka】Ririka&Lamy"
         }
     },
     {
@@ -27289,6 +27636,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00030-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00030-to-00034",
+            "text": "【Penangkal Gerah Lamy】Lamy&Polka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00034-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00034-to-00030",
+            "text": "【Penangkal Gerah Lamy】Polka&Lamy"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00034_00030-to-00034",
         "data": {
             "id": "la-name_cv-live_dial_chr-00034_00030-to-00034",
@@ -27349,6 +27710,97 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0027-00_myself",
             "text": "【Ilusi Sirkus Polka Polka】 Skill SP"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00023-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00023-to-00034",
+            "text": "【Pesta BBQ Bersama Polka】Marine&Polka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00030-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00030-to-00034",
+            "text": "【Pesta BBQ Bersama Polka】Lamy&Polka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00023",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00023",
+            "text": "【Pesta BBQ Bersama Polka】Polka&Marine"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00030",
+            "text": "【Pesta BBQ Bersama Polka】Polka&Lamy"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00037",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00037",
+            "text": "【Pesta BBQ Bersama Polka】Polka&Koyori"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-03009",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-03009",
+            "text": "【Pesta BBQ Bersama Polka】Polka&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-04012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-04012",
+            "text": "【Pesta BBQ Bersama Polka】Polka&Baelz"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-06003",
+            "text": "【Pesta BBQ Bersama Polka】Polka&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00037-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00037-to-00034",
+            "text": "【Pesta BBQ Bersama Polka】Koyori&Polka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_03009-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_03009-to-00034",
+            "text": "【Pesta BBQ Bersama Polka】Kobo&Polka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_04012-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_04012-to-00034",
+            "text": "【Pesta BBQ Bersama Polka】Baelz&Polka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_06003-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_06003-to-00034",
+            "text": "【Pesta BBQ Bersama Polka】Ririka&Polka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_myself",
+            "text": "【Pesta BBQ Bersama Polka】Skill SP"
         }
     },
     {
@@ -27937,6 +28389,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00034_06002-to-00034",
             "text": "Kanade&Polka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_06003-5-uniq-0091-00_00034-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_06003-5-uniq-0091-00_00034-to-06003",
+            "text": "【Senyum Bintang Malam Ririka】Polka&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_06003-5-uniq-0091-00_06003-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_06003-5-uniq-0091-00_06003-to-00034",
+            "text": "【Senyum Bintang Malam Ririka】Ririka&Polka"
         }
     },
     {
@@ -29851,6 +30317,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00030-to-00037",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00030-to-00037",
+            "text": "【Penangkal Gerah Lamy】Lamy&Koyori"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00037-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00037-to-00030",
+            "text": "【Penangkal Gerah Lamy】Koyori&Lamy"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00037_00030-to-00037",
         "data": {
             "id": "la-name_cv-live_dial_chr-00037_00030-to-00037",
@@ -29869,6 +30349,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00037_00032-to-00037",
             "text": "Botan&Koyori"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00034-to-00037",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00034-to-00037",
+            "text": "【Pesta BBQ Bersama Polka】Polka&Koyori"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00037-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00037-to-00034",
+            "text": "【Pesta BBQ Bersama Polka】Koyori&Polka"
         }
     },
     {
@@ -30583,6 +31077,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00037_06002-to-00037",
             "text": "Kanade&Koyori"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00037_06003-5-uniq-0091-00_00037-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00037_06003-5-uniq-0091-00_00037-to-06003",
+            "text": "【Senyum Bintang Malam Ririka】Koyori&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00037_06003-5-uniq-0091-00_06003-to-00037",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00037_06003-5-uniq-0091-00_06003-to-00037",
+            "text": "【Senyum Bintang Malam Ririka】Ririka&Koyori"
         }
     },
     {
@@ -37992,6 +38500,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03009_00030-5-uniq-0089-00_00030-to-03009",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_00030-5-uniq-0089-00_00030-to-03009",
+            "text": "【Penangkal Gerah Lamy】Lamy&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03009_00030-5-uniq-0089-00_03009-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_00030-5-uniq-0089-00_03009-to-00030",
+            "text": "【Penangkal Gerah Lamy】Kobo&Lamy"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03009_00030-to-03009",
         "data": {
             "id": "la-name_cv-live_dial_chr-03009_00030-to-03009",
@@ -38010,6 +38532,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03009_00032-to-03009",
             "text": "Botan&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03009_00034-5-uniq-0090-00_00034-to-03009",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_00034-5-uniq-0090-00_00034-to-03009",
+            "text": "【Pesta BBQ Bersama Polka】Polka&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03009_00034-5-uniq-0090-00_03009-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_00034-5-uniq-0090-00_03009-to-00034",
+            "text": "【Pesta BBQ Bersama Polka】Kobo&Polka"
         }
     },
     {
@@ -38710,6 +39246,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03009_06002-to-03009",
             "text": "Kanade&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03009_06003-5-uniq-0091-00_03009-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_06003-5-uniq-0091-00_03009-to-06003",
+            "text": "【Senyum Bintang Malam Ririka】Kobo&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03009_06003-5-uniq-0091-00_06003-to-03009",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_06003-5-uniq-0091-00_06003-to-03009",
+            "text": "【Senyum Bintang Malam Ririka】Ririka&Kobo"
         }
     },
     {
@@ -43011,6 +43561,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04012_00030-5-uniq-0089-00_00030-to-04012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_00030-5-uniq-0089-00_00030-to-04012",
+            "text": "【Penangkal Gerah Lamy】Lamy&Baelz"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04012_00030-5-uniq-0089-00_04012-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_00030-5-uniq-0089-00_04012-to-00030",
+            "text": "【Penangkal Gerah Lamy】Baelz&Lamy"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04012_00030-to-04012",
         "data": {
             "id": "la-name_cv-live_dial_chr-04012_00030-to-04012",
@@ -43029,6 +43593,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04012_00032-to-04012",
             "text": "Botan&Baelz"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04012_00034-5-uniq-0090-00_00034-to-04012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_00034-5-uniq-0090-00_00034-to-04012",
+            "text": "【Pesta BBQ Bersama Polka】Polka&Baelz"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04012_00034-5-uniq-0090-00_04012-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_00034-5-uniq-0090-00_04012-to-00034",
+            "text": "【Pesta BBQ Bersama Polka】Baelz&Polka"
         }
     },
     {
@@ -43743,6 +44321,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04012_06002-to-04012",
             "text": "Kanade&Baelz"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04012_06003-5-uniq-0091-00_04012-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_06003-5-uniq-0091-00_04012-to-06003",
+            "text": "【Senyum Bintang Malam Ririka】Baelz&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04012_06003-5-uniq-0091-00_06003-to-04012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_06003-5-uniq-0091-00_06003-to-04012",
+            "text": "【Senyum Bintang Malam Ririka】Ririka&Baelz"
         }
     },
     {
@@ -49115,6 +49707,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-06003_00030-5-uniq-0089-00_00030-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_00030-5-uniq-0089-00_00030-to-06003",
+            "text": "【Penangkal Gerah Lamy】Lamy&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_00030-5-uniq-0089-00_06003-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_00030-5-uniq-0089-00_06003-to-00030",
+            "text": "【Penangkal Gerah Lamy】Ririka&Lamy"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-06003_00030-to-06003",
         "data": {
             "id": "la-name_cv-live_dial_chr-06003_00030-to-06003",
@@ -49133,6 +49739,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-06003_00032-to-06003",
             "text": "Botan&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_00034-5-uniq-0090-00_00034-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_00034-5-uniq-0090-00_00034-to-06003",
+            "text": "【Pesta BBQ Bersama Polka】Polka&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_00034-5-uniq-0090-00_06003-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_00034-5-uniq-0090-00_06003-to-00034",
+            "text": "【Pesta BBQ Bersama Polka】Ririka&Polka"
         }
     },
     {
@@ -49392,6 +50012,97 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0059-00_myself",
             "text": "【Ransum Malam CEO Ririka】 Skill SP"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00023-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00023-to-06003",
+            "text": "【Senyum Bintang Malam Ririka】Marine&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00030-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00030-to-06003",
+            "text": "【Senyum Bintang Malam Ririka】Lamy&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00034-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00034-to-06003",
+            "text": "【Senyum Bintang Malam Ririka】Polka&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00037-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00037-to-06003",
+            "text": "【Senyum Bintang Malam Ririka】Koyori&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_03009-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_03009-to-06003",
+            "text": "【Senyum Bintang Malam Ririka】Kobo&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_04012-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_04012-to-06003",
+            "text": "【Senyum Bintang Malam Ririka】Baelz&Ririka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00023",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00023",
+            "text": "【Senyum Bintang Malam Ririka】Ririka&Marine"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00030",
+            "text": "【Senyum Bintang Malam Ririka】Ririka&Lamy"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00034",
+            "text": "【Senyum Bintang Malam Ririka】Ririka&Polka"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00037",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00037",
+            "text": "【Senyum Bintang Malam Ririka】Ririka&Koyori"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-03009",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-03009",
+            "text": "【Senyum Bintang Malam Ririka】Ririka&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-04012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-04012",
+            "text": "【Senyum Bintang Malam Ririka】Ririka&Baelz"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_myself",
+            "text": "【Senyum Bintang Malam Ririka】Skill SP"
         }
     },
     {
@@ -102714,6 +103425,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-detail",
+            "text": "Haaaah, kepalaku langsung cesss! Ini nendang banget sih.\nTapi, rasanya enak pol! Bikin ketagihan tauuu♪\n...Uughh, apaaa? Mau nyobain es serutnya Lamy? Enak saja, kan kamu punya sendiri?\n...Eh, tetap mau? Haah, iya deh~\nKalau gitu, nanti mau kan main bareng di fasilitasnya Lamy? Kalau mau, baru deh Lamy pertimbangin.\nEhh, ahahaha, kok langsung ngangguk-ngangguk gitu sih! Ya udah, janji ya♪\nNah... Ayo buka mulutnya♪ Aaaang♡"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-get",
+            "text": "Pokoknya nggak boleh selingkuh! Cinta Lamy yang melebihi laut... Semoga sampai ke semuanya♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-01",
+            "text": "Ta-da! Ini dia baju renang Lamy! Gimana, cocok nggak? Motif kotaknya lucu kan♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-02",
+            "text": "Baru sadar kalau sirupnya diganti sama alkohol, makin enak nggak sih?"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-03",
+            "text": "Uh-ho♪ Sesuai tebakanku♪ Es serut pakai alkohol mantap♪ Lamy memang jenius♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-04",
+            "text": "Gawat, kebanyakan makan es serut jadi agak kedinginan nih... Ugh..."
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-05",
+            "text": "Eh eh, sebelum mancing main di laut dulu yuk! Kita mancing setelah badan jadi anget! Ayo cepetan!"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0025-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0025-00_card-detail",
@@ -102858,6 +103618,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0027-00_card-potential-05",
             "text": "Makasih sudah mendukung Polka! Lain kali juga akan kubuat senyum bermekaran di wajah kalian☆"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-detail",
+            "text": "Ayo, tumpuk dagingnya di panggangan!\nUwah, denger deh suara daging bakar yang menggugah selera ini!\nSari gurih alias juicy-nya daging mulai keluar nih!\nWarnanya udah cokelat menggiurkan. Udah boleh dimakan?! Boleh...dong!\n...Nah jadi gitu! Dagingnya udah mateng, lho.\nHaah, BBQ emang seru ya♪ Untung banget fasilitas ini dibuat.\n...Hm? Mau panggangin buat Polka juga? Yeey, makasih lho!\nKalau gitu, Polka mau yang rare ya. Harus rare banget, paham? Tolong ya♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-get",
+            "text": "Pertahankan semangatmu! Nikmati lautan musik Live sepuasnya!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-01",
+            "text": "Kalau lihat dunia melalui sun visor ini... Semuanya terlihat pink terang, lho☆"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-02",
+            "text": "Enak banget! Daging ini lezat parah?! Eh, kamu koki bintang 3 ya?"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-03",
+            "text": "Sip, perut kenyang, jalan santai ah. Oh, kamu mau ikut? Oke, come on♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-04",
+            "text": "Ombak yang datang dan pergi... Seperti hidup ya... Hm? Maksudnya apa coba???"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-05",
+            "text": "Eh? Mau istirahat di tenda? Tunggu dulu, ayo kita bikin istana pasir bareng! Ayolaaah!"
         }
     },
     {
@@ -104772,6 +105581,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-detail",
+            "text": "Anginnya segar banget~♪ Bersantai ria di kolam renang... Berasa kayak artis, kan♪\nKalau begini sih makin lahap makan sosis bakarnya! Hap, nyam nyam... Wah, enak banget! Tambah satu lagi!\n...Eh, pemandangannya bagus? Ehehe, iya kan, iya kan♪ Seneng banget deh kalau kamu bisa nikmatin lampu neon kebanggaan fasilitas kami ini♪\nKhusus buat kamu, ada Kesempatan Foto Malam, nih! Jadi, yuk foto bareng!\nAyo, merapat lagi ke sini! Udah siap? Oke, mulai ya?\nSatu, dua, ti—eh, GAWAT?! Aku jatuh dari flamingo! Uwaaaaaah?!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-get",
+            "text": "Rasa sayang Ririka buat kalian semuanya lebih besar dari laut! Beneran, lho?"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-01",
+            "text": "Gimana gaya baju renang Ririka? Gaya seleb itu kuncinya... Posisi topi yang pas♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-02",
+            "text": "Ugh, jadi basah kuyup... Ah, kalau gini jadi mirip aslinya?! Lihat, aku niruin rumput laut!"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-03",
+            "text": "Lihat! Sosis bakarnya nggak jatuh ke kolam renang! Hebat kamu, flamingo♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-04",
+            "text": "Waah, langit penuh bintang♪ Ups?! Ahaha... Hampir saja kepleset♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-05",
+            "text": "Sekali lagi, kesempatan foto malam hari! Kali ini harus foto bareng ya♪"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0060-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0060-00_card-detail",
@@ -105696,6 +106554,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_skill-card",
+            "text": "Saatnya petualangan di laut sama Lamy!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_start-card",
+            "text": "Lamy akan pancing hati kalian semuanya♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-00030_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-00030_myself-001",
@@ -105777,6 +106649,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-00034_00034-5-uniq-0027-00_start-card",
             "text": "Polka di sini! Apa kalian juga ada di sini?!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_skill-card",
+            "text": "Hormat kepada lautan yang megah!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_start-card",
+            "text": "Mau diterjang ombak gede pun, Polka gak akan kalah! Ayo hebohkan suasananya!"
         }
     },
     {
@@ -106687,6 +107573,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-06003_06003-5-uniq-0059-00_start-card",
             "text": "Pertemuan berikutnya adalah pertunjukan dengan sepenuh jiwa~♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_skill-card",
+            "text": "Inilah masakan laut praktis!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_start-card",
+            "text": "Ayo nikmati laut bersama Ririka sang jenius!"
         }
     },
     {
@@ -122811,6 +123711,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00023-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00023-to-00030",
+            "text": "Mau cipratin air ke Lamy... Tapi gak jadi deh♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00030-to-00023",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00030-to-00023",
+            "text": "Makasih! Kalau begitu copot semua baju..."
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00023_00030-to-00023",
         "data": {
             "id": "la-text_cv-live_dial_chr-00023_00030-to-00023",
@@ -122829,6 +123743,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00023_00032-to-00023",
             "text": "Botan-san... aku sayang sama kamu!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00023-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00023-to-00034",
+            "text": "Baju renang itu terlalu terbuka! Kalau begini Marine juga gak boleh kalah..."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00034-to-00023",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00034-to-00023",
+            "text": "Hoo, kuping hewan dipadu baju renang gyaru... Penuh potensi nih!"
         }
     },
     {
@@ -123053,6 +123981,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00023_06002-to-00023",
             "text": "Aman, pokoknya serahkan saja padaku!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00023_06003-5-uniq-0091-00_00023-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00023_06003-5-uniq-0091-00_00023-to-06003",
+            "text": "Kulit Ririka yang terlihat dari balik renda... Seksi banget ih♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00023_06003-5-uniq-0091-00_06003-to-00023",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00023_06003-5-uniq-0091-00_06003-to-00023",
+            "text": "Ririka yang dewasa?! A-apa, kamu mau ngapain?!"
         }
     },
     {
@@ -125828,6 +126770,97 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00023-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00023-to-00030",
+            "text": "Loh kok gitu sih! Siram aku pakai pistol air sampai basah kuyup dong!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00023",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00023",
+            "text": "Marine, mau aku olesin krim tabir surya nggak?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00034",
+            "text": "Lamy bakal bikin semuanya meleleh dengan lautan cinta♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00037",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00037",
+            "text": "Semuanya? Baju renang Lamy imut nggak?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-03009",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-03009",
+            "text": "Dingin?! Siapa nih yang nempelin sesuatu ke Lamy?!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-04012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-04012",
+            "text": "Bae-chan, coba muter-muter kayak pusaran air dong!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-06003",
+            "text": "Inilah kekuatan penuh Lamy!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00034-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00034-to-00030",
+            "text": "Jangan usilin baju renang orang sembarangan dong!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00037-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00037-to-00030",
+            "text": "Boleh dong♪ Keliling lautan naik boat berdua yuk!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_03009-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_03009-to-00030",
+            "text": "Hmmm? Pancingan yang disembunyiin di belakangmu itu apa tuh?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_04012-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_04012-to-00030",
+            "text": "Ombaknya lagi bagus nih♪ Jangan sampai ketinggalan, siap ya!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_06003-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_06003-to-00030",
+            "text": "Maksudnya apa sih?! Aku nggak ngerti!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_myself",
+            "text": "Pokoknya nggak boleh selingkuh! Cinta Lamy yang melebihi laut... Semoga sampai ke semuanya♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00030_00030-to-00001",
         "data": {
             "id": "la-text_cv-live_dial_chr-00030_00030-to-00001",
@@ -126234,6 +127267,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00030-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00030-to-00034",
+            "text": "Wah, Omarun! Baju renang itu imut banget♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00034-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00034-to-00030",
+            "text": "O-Omarun kenapa? Mau cerita ke aku?!"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00030_00034-to-00030",
         "data": {
             "id": "la-text_cv-live_dial_chr-00030_00034-to-00030",
@@ -126455,6 +127502,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00030_06002-to-00030",
             "text": "Mana bisa aku nolak permintaan kouhai yang imut ini~♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_06003-5-uniq-0091-00_00030-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_06003-5-uniq-0091-00_00030-to-06003",
+            "text": "Baju renangnya kelihatan dewasa ya. Mantap, mantap♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_06003-5-uniq-0091-00_06003-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_06003-5-uniq-0091-00_06003-to-00030",
+            "text": "Anak manis itu maksudnya Lamy? Eeeeh, sayang banget deh♡"
         }
     },
     {
@@ -128264,6 +129325,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00030-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00030-to-00034",
+            "text": "Uwooooh, Lamy-ku! Luar biasaaaa!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00034-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00034-to-00030",
+            "text": "Nempel banyak di Lamy... Pom-pooom~♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00034_00030-to-00034",
         "data": {
             "id": "la-text_cv-live_dial_chr-00034_00030-to-00034",
@@ -128324,6 +129399,97 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0027-00_myself",
             "text": "Kalian yang nonton Polka yang keren ini juga sangat keren!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00023-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00023-to-00034",
+            "text": "Mau nekad sih boleh, tapi tetap harus tau batas ya!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00030-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00030-to-00034",
+            "text": "Eh, ah, gi-gitu ya? Ma-makasih banyak."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00023",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00023",
+            "text": "Jeng jeng! Kemunculan rubah fennec pakai baju renang ala gyaru!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00030",
+            "text": "Laut itu gak cuma nyembuhin hati, tapi juga jiwa ya."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00037",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00037",
+            "text": "Heh, topi sun visor ini kece banget ya?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-03009",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-03009",
+            "text": "Oh, ada pawang hujan liar! Aku pancing sekalian ah♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-04012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-04012",
+            "text": "Untuk panen banyak ikan, umpannya harus pakai tikus segar!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-06003",
+            "text": "Mesin beroperasi dengan maksimal! Ririka, bisa ikutin aku gak?!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00037-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00037-to-00034",
+            "text": "Aku aku aku! Polka mau! Naik boat! Kencan di laut sama aku plis!!!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_03009-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_03009-to-00034",
+            "text": "Hm, tercium bau bocah nakal yang ngincer aksesoris ekorku..."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_04012-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_04012-to-00034",
+            "text": "Hahaha! Kalau begini, laut pun bisa kuseberangi!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_06003-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_06003-to-00034",
+            "text": "Ayo bikin heboh lagi seperti laut yang mendidih dengan vibe kita♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_myself",
+            "text": "Pertahankan semangatmu! Nikmati lautan musik Live sepuasnya!"
         }
     },
     {
@@ -128912,6 +130078,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00034_06002-to-00034",
             "text": "Jangan sampai berkedip, ya!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_06003-5-uniq-0091-00_00034-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_06003-5-uniq-0091-00_00034-to-06003",
+            "text": "Shacho! Semuanya nungguin pidato kamu!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_06003-5-uniq-0091-00_06003-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_06003-5-uniq-0091-00_06003-to-00034",
+            "text": "Yo, Ririka! Ririka keren, lho!"
         }
     },
     {
@@ -130826,6 +132006,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00030-to-00037",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00030-to-00037",
+            "text": "Imut bangeeet! Lamy-tan, lihat ke sini dong!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00037-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00037-to-00030",
+            "text": "Koyo... Pengen kencan sama Lamy-tan deh♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00037_00030-to-00037",
         "data": {
             "id": "la-text_cv-live_dial_chr-00037_00030-to-00037",
@@ -130844,6 +132038,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00037_00032-to-00037",
             "text": "Eh~, senangnya~♪ Awooo!!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00034-to-00037",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00034-to-00037",
+            "text": "Nggak cuma topi, baju renangnya juga keren lho♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00037-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00037-to-00034",
+            "text": "Pertanyaan buat semuanya! siapa yang mau kencan sama Koyo?"
         }
     },
     {
@@ -131558,6 +132766,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00037_06002-to-00037",
             "text": "Eh~, Kanade itu bocah nakal, kan~?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00037_06003-5-uniq-0091-00_00037-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00037_06003-5-uniq-0091-00_00037-to-06003",
+            "text": "Saatnya fokus ke aksi panggung kami, dari otak dan si jenius lho!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00037_06003-5-uniq-0091-00_06003-to-00037",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00037_06003-5-uniq-0091-00_06003-to-00037",
+            "text": "Eh...kenapa?! Di sini kan panggung?!"
         }
     },
     {
@@ -138967,6 +140189,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03009_00030-5-uniq-0089-00_00030-to-03009",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03009_00030-5-uniq-0089-00_00030-to-03009",
+            "text": "Ihihi! Nih botol minum! Mau minum air?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03009_00030-5-uniq-0089-00_03009-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03009_00030-5-uniq-0089-00_03009-to-00030",
+            "text": "Kobo anak baik kok? Aku gak ngapa-ngapain lho?"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03009_00030-to-03009",
         "data": {
             "id": "la-text_cv-live_dial_chr-03009_00030-to-03009",
@@ -138985,6 +140221,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03009_00032-to-03009",
             "text": "Aku suka tampil di atas panggung!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03009_00034-5-uniq-0090-00_00034-to-03009",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03009_00034-5-uniq-0090-00_00034-to-03009",
+            "text": "Polpol, mukanya jahil ya♪ Isengin orang bareng yuk!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03009_00034-5-uniq-0090-00_03009-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03009_00034-5-uniq-0090-00_03009-to-00034",
+            "text": "Wow! Ekornya ada dua!"
         }
     },
     {
@@ -139685,6 +140935,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03009_06002-to-03009",
             "text": "Kanade~! Aku cinta kamu~!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03009_06003-5-uniq-0091-00_03009-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03009_06003-5-uniq-0091-00_03009-to-06003",
+            "text": "Ririka, nyanyi bareng yuk! Ayo, ayo cepetan!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03009_06003-5-uniq-0091-00_06003-to-03009",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03009_06003-5-uniq-0091-00_06003-to-03009",
+            "text": "AAAAAAAHHHHH!!!"
         }
     },
     {
@@ -143986,6 +145250,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04012_00030-5-uniq-0089-00_00030-to-04012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04012_00030-5-uniq-0089-00_00030-to-04012",
+            "text": "Pusaran air? Nggak paham sih, tapi... Yang penting berputar!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04012_00030-5-uniq-0089-00_04012-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04012_00030-5-uniq-0089-00_04012-to-00030",
+            "text": "Uwooh, semuanya heboh banget!"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04012_00030-to-04012",
         "data": {
             "id": "la-text_cv-live_dial_chr-04012_00030-to-04012",
@@ -144004,6 +145282,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04012_00032-to-04012",
             "text": "Botan-senpai keren bangeeet!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04012_00034-5-uniq-0090-00_00034-to-04012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04012_00034-5-uniq-0090-00_00034-to-04012",
+            "text": "Po-Polka-senpai?! Kenapa kamu liatin aku?!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04012_00034-5-uniq-0090-00_04012-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04012_00034-5-uniq-0090-00_04012-to-00034",
+            "text": "Wow, keren! Polka-senpai jalan di atas bola!"
         }
     },
     {
@@ -144718,6 +146010,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04012_06002-to-04012",
             "text": "Aku bakal bikin kekacauan terbaik bareng Kanade!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04012_06003-5-uniq-0091-00_04012-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04012_06003-5-uniq-0091-00_04012-to-06003",
+            "text": "Baiklah, saatnya tunjukin kehebatan kita yang sebenarnya."
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04012_06003-5-uniq-0091-00_06003-to-04012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04012_06003-5-uniq-0091-00_06003-to-04012",
+            "text": "Aduh! Pengunjung memegangi dadanya seperti sedang kesakitan!"
         }
     },
     {
@@ -150090,6 +151396,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-06003_00030-5-uniq-0089-00_00030-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_00030-5-uniq-0089-00_00030-to-06003",
+            "text": "Uwoooh! Ririka juga nggak akan kalah!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_00030-5-uniq-0089-00_06003-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_00030-5-uniq-0089-00_06003-to-00030",
+            "text": "Lamy-senpai identik sama warna biru... Hah! Berarti, laut dong?!"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-06003_00030-to-06003",
         "data": {
             "id": "la-text_cv-live_dial_chr-06003_00030-to-06003",
@@ -150108,6 +151428,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-06003_00032-to-06003",
             "text": "Waaah, terima kasih banyak!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_00034-5-uniq-0090-00_00034-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_00034-5-uniq-0090-00_00034-to-06003",
+            "text": "Tentu saja! Akan kuperlihatkan kekuatan Ririka!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_00034-5-uniq-0090-00_06003-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_00034-5-uniq-0090-00_06003-to-00034",
+            "text": "Live-nya seru banget♪ Suasananya benar-benar membara ya?"
         }
     },
     {
@@ -150367,6 +151701,97 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0059-00_myself",
             "text": "Kalian akan mendukungku sepenuhnya kan?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00023-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00023-to-06003",
+            "text": "Ehem! Aku udah waxing biar mulus loh!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00030-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00030-to-06003",
+            "text": "Ihihi♪ Ini namanya gaya Shacho lho, Lamy-senpai!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00034-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00034-to-06003",
+            "text": "Semuanya, mesin kalian sudah panas belum? Mana sorakannya!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00037-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00037-to-06003",
+            "text": "Pertama-tama, kami akan siram semuanya dengan air!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_03009-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_03009-to-06003",
+            "text": "Waah?! Jangan tarik-tarik kardigan Ririka dong!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_04012-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_04012-to-06003",
+            "text": "Fiuh... Akhirnya tiba juga saatnya lepasin topi 50 kg ini!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00023",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00023",
+            "text": "Mau pakai kacamata hitam, buat tunjukin sisi dewasa Ririka ah♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00030",
+            "text": "Anak manis yang di sana, ayo sini naik boat Ririka!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00034",
+            "text": "Hihihi, Ririka pakai topi begini keren juga, kan?"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00037",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00037",
+            "text": "Koyochan-senpai! Ayo kita main siram-siraman air♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-03009",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-03009",
+            "text": "Teriak yang kencang sampai bisa memecah ombak!!!"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-04012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-04012",
+            "text": "Mengincar hati semuanya... Memancing♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_myself",
+            "text": "Rasa sayang Ririka buat kalian semuanya lebih besar dari laut! Beneran, lho?"
         }
     },
     {
