@@ -546,6 +546,48 @@
         }
     },
     {
+        "id": "la-generated-live_special_skill-card-03001-5-uniq-0114-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03001-5-uniq-0114-00.1-description",
+            "text": "Selama 10 dtk, Efek Score Support meningkat 120% saat Lebih dari 2 member ID Gen 1 Peluang Aktivasi Skill Naik 45%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03001-5-uniq-0114-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03001-5-uniq-0114-00.2-description",
+            "text": "Selama 10 dtk, Efek Score Support meningkat [highlight]145[/highlight]% saat Lebih dari 2 member ID Gen 1 Peluang Aktivasi Skill Naik [highlight]55[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03002-5-uniq-0113-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03002-5-uniq-0113-00.1-description",
+            "text": "Selama 15 dtk, Efek Score Support meningkat 80% Peluang Aktivasi Skill Naik 25%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03002-5-uniq-0113-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03002-5-uniq-0113-00.2-description",
+            "text": "Selama 15 dtk, Efek Score Support meningkat [highlight]95[/highlight]% Peluang Aktivasi Skill Naik [highlight]35[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03003-5-uniq-0115-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03003-5-uniq-0115-00.1-description",
+            "text": "Selama 14 dtk, Efek Score Support meningkat 95% "
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03003-5-uniq-0115-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03003-5-uniq-0115-00.2-description",
+            "text": "Selama 14 dtk, Efek Score Support meningkat [highlight]115[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
         "data": {
             "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
